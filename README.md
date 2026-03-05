@@ -4,7 +4,7 @@ This repository is a companion resource for the paper:
 
 > **AI Agent in Biology Research: A Survey**  
 > Cong Qi*, Wenbo Wang*, Siqi Jiang, Qin Liu, Xun Song, Hanzhang Fang, Zhi Wei  
-> *Submitted to Briefings in Bioinformatics*
+> "Artificial Intelligence agents for biological research: a survey." Briefings in Bioinformatics 27, no. 1 (2026).
 
 This repository organizes representative **biological AI agent systems**
 according to the **five-dimensional taxonomy** proposed in the paper.
