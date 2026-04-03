@@ -340,7 +340,7 @@
 
 
 - **[PheNormGPT: a framework for extraction and normalization of key medical findings](https://academic.oup.com/database/article-abstract/doi/10.1093/database/baae103/7833209)** (*2024*) `Database`
-  > This work introduces PheNormGPT, a large language model–based framework for extracting and normalizing phenotypic findings from unstructured clinical text to Human Phenotype Ontology concepts. Using fine-tuned GPT models and a novel adaptive few-shot selection strategy, PheNormGPT achieved state-of-the-art performance in the BioCreative VIII phenotype extraction challenge. The results demonstrate the effectiveness of LLM-driven approaches for accurate clinical phenotype normalization.
+  > 本工作介绍了 PheNormGPT，这是一个基于大型语言模型的框架，用于从非结构化临床文本中提取表型发现并将其标准化为人类表型本体概念。通过使用微调的 GPT 模型和新颖的自适应少样本选择策略，PheNormGPT 在 BioCreative VIII 表型提取挑战中取得了最先进的性能。结果证明了 LLM 驱动方法在准确临床表型标准化方面的有效性。
 
 
 
@@ -431,7 +431,7 @@
 
 
 - **[Comprehensive molecular analyses of an autoimmune-related gene predictive model and immune infiltrations using machine learning methods in intracranial aneurysma](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1531930/full)** (*2025*) `Frontiers in Immunology`
-  > This study investigates the genetic links between autoimmune processes and intracranial aneurysm (IA) by integrating transcriptomic data, functional enrichment analyses, and multiple machine-learning approaches. Two key autoimmune-related diagnostic genes, ADIPOQ and IL21R, were identified and used to build a neural-network model with strong predictive performance (AUC = 0.944). The results highlight immune infiltration and gene–miRNA–drug regulatory networks as important contributors to IA pathogenesis, suggesting potential therapeutic targets.
+  > 本研究通过整合转录组数据、功能富集分析和多种机器学习方法，探讨了自身免疫过程与颅内动脉瘤 (IA) 之间的遗传联系。研究确定了两个关键的自身免疫相关诊断基因 ADIPOQ 和 IL21R，并用它们构建了一个具有强大预测性能的神经网络模型 (AUC = 0.944)。结果强调免疫浸润和基因-miRNA-药物调控网络是 IA 发病机制的重要贡献者，提示了潜在的治疗靶点。
 
 
 
@@ -538,49 +538,49 @@
 
 - **[Influence of the Concentrate Inclusion Level in a Grass Silage–based Diet on Hepatic Transcriptomic Profiles in Holstein-Friesian Dairy Cows in Early Lactation](https://www.sciencedirect.com/science/article/pii/S0022030223003764)** (*2023*) `Journal of Dairy Science`
 
-  > This study analyzes how different concentrate levels in early-lactation diets affect hepatic transcriptomic responses in dairy cows. Results reveal parity-specific metabolic and inflammatory responses, offering insights into nutritional strategies for mitigating negative energy balance.
+  > 本研究分析了早期泌乳期饮食中不同精料水平如何影响奶牛的肝脏转录组反应。结果揭示了胎次特异性的代谢和炎症反应，为缓解负能量平衡的营养策略提供了见解。
 
 
 
 - **[Benchmarking Large Language Models for Predictive Modeling in Biomedical Research With a Focus on Reproductive Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC12312170/)** (*2025*) `bioRxiv`
 
-  > The authors benchmark multiple large language models for automated code generation in biomedical predictive modeling using DREAM challenge datasets. The study demonstrates that top-performing LLMs can match or exceed expert-designed models, particularly in standardized omics analyses.
+  > 作者使用 DREAM 挑战数据集对多个大型语言模型在生物医学预测建模中的自动代码生成进行了基准测试。该研究表明，表现最佳的 LLM 可以匹配或超越专家设计的模型，特别是在标准化组学分析中。
 
 
 
 - **[Bridging the Early Science Gap with Artificial Intelligence: Evaluating Large Language Models as Tools for Early Childhood Science Education](https://dl.acm.org/doi/full/10.1145/3706599.3721261)** (*2025*) `CHI EA`
 
-  > This paper evaluates the ability of leading large language models to generate preschool-appropriate science explanations. Through expert teacher assessments, it highlights both the promise and limitations of LLMs in supporting early childhood science education.
+  > 本文评估了领先的大型语言模型生成适合学龄前儿童的科学解释的能力。通过专家教师评估，它突出了 LLM 在支持幼儿科学教育方面的前景和局限性。
 
 
 
 - **[Leveraging Large Language Models for Decision Support in Personalized Oncology](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2812097)** (*2023*) `JAMA Network Open`
 
-  > The study explores the use of conversational large language models to assist clinical decision-making in precision oncology. It discusses the potential of LLMs to support interpretation of complex biomarkers and streamline access to prior biomedical knowledge.
+  > 该研究探讨了使用对话式大型语言模型来辅助精准肿瘤学中的临床决策。它讨论了 LLM 在支持复杂生物标志物解释和简化获取先前生物医学知识方面的潜力。
 
 
 
 - **[Evaluating the Use of Generative Artificial Intelligence to Support Genetic Counseling for Rare Diseases](https://www.mdpi.com/2075-4418/15/6/672)** (*2025*) `Diagnostics`
 
-  > This work assesses the accuracy and safety of multiple generative AI models in answering rare disease–related questions relevant to genetic counseling. While overall performance is strong, the study highlights risks of misinformation and the need for expert oversight.
+  > 本工作评估了多个生成式 AI 模型在回答与遗传咨询相关的罕见病问题时的准确性和安全性。虽然整体表现强劲，但该研究强调了错误信息的风险以及专家监督的必要性。
 
 
 
 - **[Leveraging Generative AI to Accelerate Biocuration of Medical Actions for Rare Disease](https://pmc.ncbi.nlm.nih.gov/articles/PMC11370550/)** (*2024*) `medRxiv`
 
-  > The paper presents AutoMAxO, a semi-automated LLM-based workflow for scaling biocuration of medical actions in rare diseases. By combining AI-driven extraction with ontology alignment and human validation, the approach significantly accelerates structured knowledge curation.
+  > 本文介绍了 AutoMAxO，这是一个基于 LLM 的半自动化工作流程，用于扩展罕见病医疗行动的生物管理。通过将 AI 驱动的提取与本体对齐和人工验证相结合，该方法显著加速了结构化知识管理。
 
 
 
 - **[Importance of Prior Patient Interactions With the Healthcare System to Engaging With Pretest Cancer Genetic Services via Digital Health Tools](https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.14652)** (*2025*) `Health Services Research`
 
-  > This randomized trial examines how prior healthcare system engagement influences patient uptake of digital tools for cancer genetic services. Findings suggest that existing patient-system interactions are key predictors of engagement with genetic testing workflows.
+  > 这项随机试验研究了先前的医疗保健系统参与如何影响患者对癌症遗传服务数字工具的使用。研究结果表明，现有的患者-系统互动是参与基因检测工作流程的关键预测因素。
 
 
 
 - **[Comparison of the Performance of Five Generative Artificial Intelligence Models on a Medical Molecular Biology Examination](https://www.cureus.com/articles/358057-comparison-of-the-performance-of-five-generative-artificial-intelligence-models-on-a-medical-molecular-biology-examination.pdf)** (*2025*) `Cureus`
 
-  > This study compares the performance of five Chinese generative AI models on a medical molecular biology exam. Results show that several models outperform undergraduate students, while underscoring the need for critical evaluation and domain-specific AI systems in education.
+  > 本研究比较了五个中国生成式 AI 模型在医学分子生物学考试中的表现。结果显示，几个模型的表现优于本科生，同时强调了在教育中需要批判性评估和特定领域 AI 系统的必要性。
 
 ## 4. 交互模式
 
@@ -634,7 +634,7 @@
 
 - **[Giving AI Personalities Leads to More Human-Like Reasoning](https://arxiv.org/abs/2502.14155)** (*2025*) `arXiv`
 
-  > This paper explores personality-based prompting as a mechanism to capture the diversity of human reasoning in LLMs. By combining psychological personality models with genetic algorithms, the approach enables LLMs to approximate human response distributions across intuitive and deliberative reasoning tasks.
+  > 本文探讨了基于人格的提示作为捕捉 LLM 中人类推理多样性的机制。通过将心理人格模型与遗传算法相结合，该方法使 LLM 能够在直觉和深思熟虑的推理任务中近似人类反应分布。
 
 
 ## 5. 资源整合
@@ -723,7 +723,7 @@
 
 ## 基准测试 (Benchmark)
 
-This section curates benchmarks for evaluating AI systems in biomedical domains, organized into two categories: Biomedical Reasoning and Question Answering (knowledge and reasoning through Q&A formats) and Complex Real-World Biomedical Task (end-to-end research workflows including planning, tool use, and autonomous execution). This is a document that will be continuously updated.
+本节整理了用于评估生物医学领域 AI 系统的基准测试，分为两类：生物医学推理和问答（通过问答格式进行知识和推理）以及复杂的现实世界生物医学任务（端到端的研究工作流，包括计划、工具使用和自主执行）。这是一份将不断更新的文档。
 
 ### 生物医学推理和问答
 
@@ -780,91 +780,91 @@ This section curates benchmarks for evaluating AI systems in biomedical domains,
 
 - **[AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://github.com/microsoft/autogen)** `Microsoft Research`
 
-  > AutoGen is a framework for building agent conversation systems that enables the development of LLM applications using conversational agents. It provides foundations for task orchestration and agent coordination, implementing event-driven architecture with asynchronous message-passing protocols. The framework handles agent instantiation with specific functional roles and manages structured message-passing that supports both forward task progression and retrospective error correction across specialized agents (e.g., Planner, Reasoner, Memory, RAG, Tool executors, Code, Critic, Reporter).
+  > AutoGen 是一个用于构建智能体对话系统的框架，支持通过对话智能体开发 LLM 应用。它提供任务编排与智能体协同的基础，采用事件驱动架构和异步消息传递协议。框架支持按功能角色实例化智能体，并管理结构化消息传递，既支持任务前向推进，也支持在专用智能体之间的回溯纠错（如 Planner、Reasoner、Memory、RAG、Tool executors、Code、Critic、Reporter）。
 
 - **[CodeAct: Executable Code Actions Elicit Better LLM Agents](https://github.com/xingyaoww/code-act) ** `UIUC & Apple`
 
-  >CodeAct is a framework that consolidates LLM agents' actions into a unified code action space. Enables agents to execute Python code dynamically, revise prior actions through self-debugging, and emit new actions upon observations in multi-turn interactions. Supports complex operations through control and data flow, leverages extensive software packages for expanded action space, and provides automated feedback mechanisms for iterative task solving.
+  > CodeAct 是一个将 LLM 智能体动作统一到代码动作空间的框架。支持智能体动态执行 Python 代码，通过自我调试修订先前动作，并在多轮交互中根据观察输出新的动作。通过控制流与数据流支持复杂操作，借助丰富的软件包扩展动作空间，并提供自动化反馈机制以支持迭代式任务求解。
 
 - **[LangChain: Platform for Reliable Agents](https://github.com/langchain-ai/langchain)** `LangChain`
   
-  > LangChain is a comprehensive framework for building agent systems and LLM-powered applications. Provides modular components for chaining interoperable elements, integrating with diverse data sources and external systems, and enabling rapid prototyping through component-based architecture. Supports model interoperability, real-time data augmentation, and production-ready features with built-in monitoring and evaluation capabilities for deploying reliable agent applications.
+  > LangChain 是用于构建智能体系统和 LLM 应用的综合框架。提供模块化组件以串联可互操作元素，支持与多样数据源和外部系统集成，并通过组件化架构实现快速原型。支持模型互操作、实时数据增强，并内置监控与评估能力，提供生产就绪特性以部署可靠的智能体应用。
 
 - **[LangGraph: Build Resilient Language Agents as Graphs](https://github.com/langchain-ai/langgraph)**  `LangChain`
 
-  >LangGraph is a low-level orchestration framework for building controllable, stateful multi-agent applications with complex workflows. Enables customizable agent architectures with built-in support for persistent checkpoints, cycles, and human-in-the-loop interactions. Provides graph-based workflow management for coordinating multiple agents, long-term memory capabilities, and production-ready deployment tools. Integrates seamlessly with LangChain ecosystem while supporting standalone usage for agent systems requiring precise control over execution flow.
+  > LangGraph 是用于构建可控、有状态多智能体应用的底层编排框架，适合复杂工作流。支持可定制的智能体架构，内置持久化检查点、循环以及人机协作（human-in-the-loop）交互。提供基于图的工作流管理以协调多个智能体，具备长期记忆能力和生产级部署工具。可与 LangChain 生态无缝集成，同时支持独立使用，满足对执行流精确控制的系统需求。
 
 - **[CrewAI: Framework for Orchestrating Role-Playing, Autonomous AI Agents](https://github.com/joaomdmoura/crewai)** `CrewAI`
   
-  > CrewAI is a framework for building collaborative multi-agent systems with role-based task delegation. Enables developers to create crews of specialized agents that work together to accomplish complex tasks, with built-in process orchestration (sequential, hierarchical, consensual). Provides task decomposition and assignment mechanisms, inter-agent communication protocols, and memory sharing across agent crews for collaborative problem-solving.
+  > CrewAI 是一个用于构建协作式多智能体系统的框架，支持基于角色的任务委派。开发者可创建由专业智能体组成的团队共同完成复杂任务，内置流程编排（顺序、分层、共识）。提供任务分解与分配机制、智能体间通信协议，以及团队级记忆共享，用于协作式问题求解。
 
 - **[BioChatter: A Platform for the Biomedical Application of Large Language Models](https://biochatter.org)** `Heidelberg University & EMBL-EBI`
   
-  > BioChatter is an open-source Python framework designed for developing custom biomedical research software using LLMs while adhering to open science principles. Provides unified API abstraction layer that harmonizes different LLM deployment tools and proprietary providers, enabling seamless model switching without code changes. Integrates with BioCypher knowledge graphs and vector databases for retrieval-augmented generation, facilitates external API integration through robust parameterization, and supports multi-agent systems with reflection-based workflows. Features continuous benchmarking infrastructure for reproducibility, customizable system prompts for domain alignment, and modular architecture supporting deployment spectrum from rapid prototyping to fully encapsulated production systems with complete data sovereignty.
+  > BioChatter 是一个开源 Python 框架，旨在遵循开放科学原则，使用 LLM 构建定制化生物医学研究软件。提供统一的 API 抽象层，协调不同 LLM 部署工具和专有服务商，实现无代码改动的模型切换。与 BioCypher 知识图谱和向量数据库集成用于检索增强生成（RAG），通过稳健参数化便于外部 API 集成，并通过反思式工作流支持多智能体系统。具备持续基准评测基础设施以保障可复现性、可定制的系统提示用于领域对齐，以及覆盖从快速原型到完全封装、具备数据主权的生产系统的模块化架构。
 
 ### 智能体记忆系统
 - **[LlamaIndex: Building LLM-powered Agents over Data](https://github.com/run-llama/llama_index)** `LlamaIndex`
   
-  > LlamaIndex is a data framework for building context-aware agent systems with persistent knowledge management capabilities. Provides data connectors to ingest information from diverse sources (APIs, PDFs, databases, documents), structures data through customizable indices and knowledge graphs for efficient retrieval, and offers advanced query interfaces for agents to access relevant context. Enables agents to augment LLM reasoning with external and private data through RAG (Retrieval-Augmented Generation) patterns, supports both high-level APIs for rapid prototyping and low-level components for custom memory architectures, and integrates seamlessly with agent frameworks for building knowledge-grounded applications.
+  > LlamaIndex 是用于构建具备持久知识管理能力的上下文感知智能体系统的数据框架。提供数据连接器以摄取多源信息（API、PDF、数据库、文档），通过可定制索引与知识图谱结构化数据以实现高效检索，并提供高级查询接口让智能体访问相关上下文。支持通过 RAG 将外部或私有数据注入 LLM 推理，既提供快速原型的高层 API，也提供可定制记忆架构的底层组件，并可与智能体框架无缝集成构建知识支撑型应用。
 
 - **[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://github.com/mem0ai/mem0)** `Mem0 AI`
 
-  > Mem0 is a framework designed for building AI agents with scalable, persistent memory capabilities. It provides hierarchical memory design, implementing both short-term memory (STM) for transient task-level context and long-term memory (LTM) for persistent knowledge storage. The framework supports user-profile stores and vector-based factual stores with semantic retrieval capabilities, enabling agents to maintain context across sessions and perform analogical reasoning across different problems.
+  > Mem0 是用于构建具备可扩展、持久记忆能力的 AI 智能体框架。提供分层记忆设计，同时实现短期记忆（STM）用于任务级临时上下文与长期记忆（LTM）用于持久知识存储。支持用户画像存储与基于向量的事实存储，并具备语义检索能力，使智能体能够跨会话保持上下文并在不同问题间进行类比推理。
 
 - **[Redis: The Real-Time Data Platform](https://github.com/redis/redis)** `Redis`
 
-  > Redis is an in-memory data structure store used as a database, cache, and message broker. In agent systems, Redis provides the backing store for agent memory with real-time state tracking capabilities. It supports memory buffers (with first-in-first-out eviction) and serves as an indexing layer for approximate nearest-neighbor search in vector stores, enabling fast semantic retrieval of validated facts, procedural workflows, and experimental findings across agent sessions.
+  > Redis 是内存数据结构存储，常用作数据库、缓存和消息代理。在智能体系统中，Redis 可作为智能体记忆的后端存储，提供实时状态跟踪能力。支持带先入先出（FIFO）淘汰策略的内存缓冲区，并可作为向量存储的近似最近邻搜索索引层，实现对已验证事实、流程与实验发现的快速语义检索。
 
 - **[ChromaDB: Open-source search and retrieval database for AI applications](https://github.com/chroma-core/chroma)** `Chroma`
   
-  > ChromaDB is an AI-native embedding database designed for building LLM applications with semantic search capabilities. Provides efficient storage and retrieval of embeddings for agent memory systems, supports metadata filtering and hybrid search, and offers both in-memory and persistent storage options. Enables agents to maintain vector-based knowledge stores with fast similarity search, integrates seamlessly with LangChain and LlamaIndex, and includes built-in embedding functions for multiple models.
+  > ChromaDB 是一个 AI 原生嵌入数据库，专为构建具有语义搜索功能的 LLM 应用程序而设计。为智能体记忆系统提供高效的嵌入存储和检索，支持元数据过滤和混合搜索，并提供内存和持久存储选项。使智能体能够维护基于向量的知识库以进行快速相似性搜索，与 LangChain 和 LlamaIndex 无缝集成，并包含多个模型的内置嵌入函数。
   
 - **[Qdrant: Vector Search Engine for the Next Generation of AI Applications](https://github.com/qdrant/qdrant)** `Qdrant`
   
-  > Qdrant is a high-performance vector similarity search engine designed for agent memory and retrieval systems. Features advanced filtering, payload-based queries, and efficient approximate nearest neighbor search. Supports distributed deployments, provides JSON-based filtering for complex queries, and offers both cloud and self-hosted options for production agent applications.
+  > Qdrant 是一个高性能的向量相似度搜索引擎，专为智能体记忆和检索系统设计。具有高级过滤、基于有效载荷的查询和高效的近似最近邻搜索功能。支持分布式部署，为复杂查询提供基于 JSON 的过滤，并为生产智能体应用程序提供云端和自托管选项。
 
 ### LLM后端和智能体推理
 
 - **[Transformers: State-of-the-Art Natural Language Processing](https://github.com/huggingface/transformers)** `Hugging Face`
 
-  > Transformers is a library providing thousands of pretrained models for natural language processing tasks. It serves as the core inference engine for agent reasoning capabilities, enabling systems to leverage large language models for task decomposition, scientific reasoning, and decision-making. The library powers various LLM-based agent components including query rewriting, information synthesis, and LLM-driven consolidation processes in memory systems.
+  > Transformers 是一个提供数千个用于自然语言处理任务的预训练模型的库。它作为智能体推理能力的核心推理引擎，使系统能够利用大型语言模型进行任务分解、科学推理和决策。该库为各种基于 LLM 的智能体组件提供支持，包括查询重写、信息综合以及内存系统中的 LLM 驱动整合过程。
 
 - **[vLLM: High-throughput and memory-efficient LLM inference engine](https://github.com/vllm-project/vllm)** `UC Berkeley`
   
-  > vLLM is a fast and memory-efficient inference engine for large language models. Optimizes agent inference with PagedAttention for efficient memory management, continuous batching for high throughput, and optimized CUDA kernels. Enables agents to handle multiple concurrent requests efficiently, supports various quantization methods for reduced memory footprint, and provides OpenAI-compatible API for seamless integration with agent frameworks.
+  > vLLM 是一个快速且内存高效的大型语言模型推理引擎。通过 PagedAttention 优化智能体推理以实现高效的内存管理，连续批处理以实现高吞吐量，并优化 CUDA 内核。使智能体能够高效处理多个并发请求，支持各种量化方法以减少内存占用，并提供与 OpenAI 兼容的 API 以与智能体框架无缝集成。
   
 - **[Ollama: Get Up and Running With Large Language Models](https://github.com/ollama/ollama)** `Ollama`
   
-  > Ollama is a local runtime for running large language models on personal machines without relying on cloud services. Enables agents to execute LLM inference locally with support for multiple open-source models including Llama, Mistral, Gemma, and DeepSeek. Provides a unified API for model management, supports model customization through Modelfiles, and offers GPU acceleration with CUDA and Vulkan. Allows agents to maintain data privacy while accessing powerful language models, includes support for multimodal inputs, and integrates seamlessly with agent frameworks through its REST API and Python/JavaScript libraries.
+  > Ollama 是一个用于在个人机器上运行大型语言模型的本地运行时，无需依赖云服务。使智能体能够在本地执行 LLM 推理，支持包括 Llama、Mistral、Gemma 和 DeepSeek 在内的多个开源模型。提供统一的模型管理 API，支持通过 Modelfiles 进行模型自定义，并提供 CUDA 和 Vulkan 的 GPU 加速。允许智能体在访问强大的语言模型的同时维护数据隐私，包括支持多模态输入，并通过其 REST API 和 Python/JavaScript 库与智能体框架无缝集成。pSeek。提供统一的模型管理 API，支持通过 Modelfiles 进行模型自定义，并提供 CUDA 和 Vulkan 的 GPU 加速。允许智能体在访问强大语言模型的同时保持数据隐私，包括对多模态输入的支持，并通过其 REST API 和 Python/JavaScript 库与智能体框架无缝集成。
 
 - **[OpenAI Python: Official Python client for the OpenAI API](https://github.com/openai/openai-python)** `OpenAI`
 
-  > OpenAI Python is the official Python library for accessing OpenAI's REST API, providing agent systems with direct access to GPT models and other OpenAI services. Features type-safe request and response handling with full autocomplete support, both synchronous and asynchronous client implementations, and auto-paginating iterators for list operations. Enables agents to leverage OpenAI's language models for reasoning, text generation, vision understanding, and tool calling capabilities. Supports streaming responses for real-time agent interactions, comprehensive timeout and retry configurations, and integration with various agent frameworks for building production-ready AI applications.
+  > OpenAI Python 是用于访问 OpenAI REST API 的官方 Python 库，为智能体系统提供直接访问 GPT 模型和其他 OpenAI 服务的途径。具有类型安全的请求和响应处理、完全自动完成支持、同步和异步客户端实现以及列表操作的自动分页迭代器。使智能体能够利用 OpenAI 的语言模型进行推理、文本生成、视觉理解和工具调用功能。支持实时智能体交互的流式响应、全面的超时和重试配置，以及与各种智能体框架的集成，以构建生产就绪的 AI 应用程序。
 
 - **[Anthropic Python: Official Python client for the Anthropic API](https://github.com/anthropics/anthropic-sdk-python)** `Anthropic`
 
-  > Anthropic Python is the official Python library for accessing Anthropic's REST API, providing agent systems with direct access to Claude models and advanced AI capabilities. Features type-safe request and response handling with Pydantic models, both synchronous and asynchronous client implementations, and native support for streaming responses. Enables agents to leverage Claude's language models for reasoning, analysis, tool use (function calling), and extended thinking capabilities. Supports prompt caching for cost optimization, vision understanding for multimodal inputs, and seamless integration with agent frameworks. Provides comprehensive configuration options for timeouts, retries, and custom headers, with built-in support for Amazon Bedrock deployments for enterprise agent applications.
+  > Anthropic Python 是用于访问 Anthropic REST API 的官方 Python 库，为智能体系统提供对 Claude 模型和高级 AI 功能的直接访问。通过 Pydantic 模型提供类型安全的请求和响应处理、同步和异步客户端实现以及对流式响应的本机支持。使智能体能够利用 Claude 的语言模型进行推理、分析、工具使用（函数调用）和扩展思维能力。支持用于成本优化的提示缓存、用于多模态输入的视觉理解，并与智能体框架无缝集成。为超时、重试和自定义标头提供全面的配置选项，并内置对用于企业智能体应用程序的 Amazon Bedrock 部署的支持。
 
 ### 智能体服务和监控
 
 - **[MLflow: Open-Source Platform for Productionizing AI](https://github.com/mlflow/mlflow)** `Databricks`
 
-  > MLflow is an open-source platform for managing the end-to-end machine learning lifecycle. For agent systems, MLflow enables logging and versioning of agent episodes, ensuring reproducibility across experimental runs. It tracks agent execution traces, intermediate results, tool invocations, and decision rationales, maintaining provenance metadata for all computational experiments. The platform enables auditing of entire workflows from planning through execution and validation, with deterministic seed initialization for reproducible agent behaviors.
+  > MLflow 是一个用于管理端到端机器学习生命周期的开源平台。对于智能体系统，MLflow 能够记录智能体会话和进行版本控制，确保在实验运行中的可重复性。它跟踪智能体执行轨迹、中间结果、工具调用和决策基本原理，为所有计算实验维护来源元数据。该平台能够审核从规划到执行和验证的整个工作流，并通过确定性种子初始化来实现可重复的智能体行为。
 
 - **[Chainlit: Build Conversational AI in minutes](https://github.com/Chainlit/chainlit)** `Chainlit`
   
-  > Chainlit is a framework for rapidly building conversational interfaces for agent systems. Enables developers to create chat-based UIs with built-in support for streaming responses, multi-step interactions, and visualization of agent workflows. Features automatic conversation history management, file upload handling, and integration with major frameworks including LangChain, LlamaIndex, and OpenAI. Provides decorators for defining message handlers and tool execution steps, supports real-time collaboration, and includes data layer capabilities for persistent storage with PostgreSQL and cloud storage backends. Allows rapid prototyping of agent interfaces with minimal code while maintaining production-ready scalability.
+  > Chainlit 是一个用于快速构建智能体系统对话界面的框架。使开发人员能够创建基于聊天的 UI，内置支持流式响应、多步骤交互和智能体工作流可视化。具有自动对话历史管理、文件上传处理以及与主要框架（包括 LangChain、LlamaIndex 和 OpenAI）的集成。提供用于定义消息处理程序和工具执行步骤的装饰器，支持实时协作，并包括用于 PostgreSQL 和云存储后端持久存储的数据层功能。允许以最少的代码快速原型化智能体界面，同时保持生产就绪的可扩展性。
 
 - **[Flask: Lightweight Web Framework](https://github.com/pallets/flask)** `Pallets`
   
-  > Flask is a lightweight WSGI web framework for building web applications and APIs in Python. Commonly used to create HTTP endpoints for agent systems, providing flexible routing, request handling, and response formatting capabilities. Features a minimalist core with extensive ecosystem of extensions for authentication, database integration, and API development. Enables developers to build custom web interfaces for agent interactions, deploy agent services as REST APIs, and integrate agent systems into larger web applications. Supports both synchronous and asynchronous operations, offers template rendering with Jinja2, and provides straightforward deployment options for serving agent-powered applications.
--  **[FastAPI: Modern, fast web framework for building APIs](https://github.com/tiangolo/fastapi)** `Sebastián Ramírez`
+  > Flask 是一个轻量级的 WSGI Web 框架，用于在 Python 中构建 Web 应用程序和 API。通常用于为智能体系统创建 HTTP 端点，提供灵活的路由、请求处理和响应格式化功能。具有极简的核心和广泛的扩展生态系统，用于身份验证、数据库集成和 API 开发。使开发人员能够为智能体交互构建自定义 Web 界面，将智能体服务部署为 REST API，并将智能体系统集成到更大的 Web 应用程序中。支持同步和异步操作，提供 Jinja2 模板渲染，并为服务智能体驱动的应用程序提供直接的部署选项。
+-  **[FastAPI: 现代、快速的 API Web 框架](https://github.com/tiangolo/fastapi)** `Sebastián Ramírez`
   
-  > FastAPI is a modern, high-performance web framework for building APIs with Python. Widely used for deploying agent systems as production services with automatic API documentation, asynchronous request handling, and type validation through Pydantic. Provides WebSocket support for real-time agent interactions, dependency injection for managing agent lifecycles, and OpenAPI schema generation for agent endpoint documentation. Enables rapid development of agent APIs with built-in data validation and serialization.
+  > FastAPI 是一个现代、高性能的 Web 框架，用于使用 Python 构建 API。广泛用于将智能体系统部署为生产服务，具有自动 API 文档、异步请求处理和通过 Pydantic 进行的类型验证。为实时智能体交互提供 WebSocket 支持，为管理智能体生命周期提供依赖项注入，并为智能体端点文档提供 OpenAPI 架构生成。使具有内置数据验证和序列化功能的智能体 API 得以快速开发。
   
 - **[Gradio: Build Machine Learning Web Apps](https://github.com/gradio-app/gradio)** `Hugging Face`
   
-  > Gradio is a Python library for quickly creating customizable UI components for machine learning models and agent systems. Enables developers to build interactive interfaces for agent demonstrations with minimal code, supports various input types including text, images, and audio, and provides real-time feedback visualization. Features built-in sharing capabilities, component composition for complex workflows, and seamless integration with Hugging Face Spaces for public deployment of agent applications.
+  > Gradio 是一个 Python 库，用于快速为机器学习模型和智能体系统创建可自定义的 UI 组件。使开发者能够用最少的代码构建用于智能体演示的交互式界面，支持包括文本、图像和音频在内的各种输入类型，并提供实时反馈可视化。具有内置的共享功能、针对复杂工作流的组件组合，以及与 Hugging Face Spaces 的无缝集成，可用于公开部署智能体应用程序。
 
 ### 库总结表
 
@@ -900,141 +900,141 @@ This section curates benchmarks for evaluating AI systems in biomedical domains,
 
 - **[ClinVar: Public archive of interpretations of clinically relevant variants](https://www.ncbi.nlm.nih.gov/clinvar/)** `NCBI`
 
-  > ClinVar is a freely accessible database archiving clinical interpretations of genomic variations and their relationships to human health conditions. Aggregates variant classifications from clinical testing laboratories, research groups, expert panels, and locus-specific databases worldwide, providing agents with authoritative variant-disease associations essential for clinical diagnosis and precision medicine. Features structured submission records (SCV accessions), aggregated variant interpretations (RCV accessions), evidence documentation, and review status indicators. Supports programmatic access through E-utilities API and monthly data releases in XML, VCF, and tabular formats for systematic variant interpretation workflows.
+  > ClinVar 是一个免费可访问的数据库，存档基因组变异的临床解释及其与人类健康状况的关系。汇聚来自临床检测实验室、研究团队、专家小组和特定位点数据库的变异分类，为临床诊断和精准医学提供权威的变异-疾病关联。包含结构化提交记录（SCV 登录号）、聚合解释（RCV 登录号）、证据文档与审阅状态指示。支持通过 E-utilities API 编程访问，并按月发布 XML、VCF 与表格格式数据，便于系统化变异解读流程。
 
 - **[MyGene2: Sharing Information to Learn About Genes and Rare Conditions](https://mygene2.org/)** `University of Washington`
 
-  > MyGene2 is a patient-driven registry and data-sharing platform connecting individuals and families affected by rare genetic conditions to facilitate gene discovery and improve variant interpretation. Provides genetic variants, phenotypic descriptions, clinical histories, and natural history data reported directly by patients and families with rare and ultra-rare disorders often lacking sufficient published literature. Enables agents to access patient-reported genotype-phenotype correlations, novel variant-disease associations, clinical outcome data, and family experiences supporting variant classification, gene-disease relationship validation, and natural history studies for rare disease research and clinical interpretation of variants of uncertain significance.
+  > MyGene2 是一个由患者驱动的登记与数据共享平台，连接受罕见遗传病影响的个体和家庭，以促进基因发现并改进变异解读。提供由患者/家庭直接报告的遗传变异、表型描述、临床病史与自然史数据，尤其覆盖文献不足的罕见与超罕见疾病。使智能体能够获取患者报告的基因型-表型关联、新的变异-疾病关联、临床结局数据与家庭经验，支持变异分类、基因-疾病关系验证以及罕见病自然史研究与不确定意义变异的临床解读。
 
 
 - **[MPD: Mouse Phenome Database](https://www.jax.org/research-and-faculty/resources/mouse-phenome-database)** `The Jackson Laboratory`
 
-  > MPD is a comprehensive resource for strain characteristics, phenotypic data, genotypic information, and experimental protocols for laboratory mouse strains used in biomedical research. Provides standardized phenotype measurements across cardiovascular, metabolic, behavioral, hematological, and other physiological systems for hundreds of inbred, recombinant inbred, and mutant mouse strains. Enables agents to access comparative phenotypic data, quantitative trait loci (QTL) mapping results, genetic variation information, and experimental protocols supporting translational research, disease modeling, and genotype-phenotype correlation studies in model organism research.
+  > MPD 是用于生物医学研究实验小鼠品系的综合资源，包含品系特征、表型数据、基因型信息与实验方案。为数百个近交、重组近交和突变小鼠品系提供标准化表型测量，覆盖心血管、代谢、行为、血液学等生理系统。使智能体能够访问比较表型数据、数量性状位点（QTL）定位结果、遗传变异信息与实验方案，支持转化研究、疾病建模以及模型生物的基因型-表型关联研究。
 
 - **[gnomAD: Genome Aggregation Database](https://gnomad.broadinstitute.org/)** `Broad Institute`
 
-  > gnomAD is the world's largest public database of human genetic variation, aggregating and harmonizing exome and genome sequencing data from over 800,000 individuals across diverse global populations. Provides population allele frequencies, constraint metrics, and variant annotations enabling agents to distinguish pathogenic variants from benign population variation in clinical interpretation workflows. Features ancestry-specific frequency data, loss-of-function variant catalogues, structural variant annotations, and quality-controlled variant calls accessible through browser interface, API, and cloud-based data releases on AWS, Azure, and Google Cloud platforms.
+  > gnomAD 是全球最大的公开人类遗传变异数据库，汇聚并协调来自不同人群的 80 多万人的外显子组与全基因组测序数据。提供人群等位基因频率、约束度量与变异注释，帮助智能体在临床解读流程中区分致病变异与良性群体变异。包含祖源特异的频率数据、功能缺失变异目录、结构变异注释及质控后的变异调用结果，可通过浏览器界面、API 与云端数据发布（AWS、Azure、Google Cloud）访问。
 
 - **[UCSC Genome Browser: Integrated tool for visualizing and analyzing genome assemblies](https://genome.ucsc.edu/)** `UC Santa Cruz Genomics Institute`
 
-  > UCSC Genome Browser is a comprehensive platform for exploring genomic annotations, comparative genomics, and experimental data across multiple species and genome assemblies. Provides agents with integrated access to reference sequences, gene predictions, regulatory elements, conservation scores, variation data, and thousands of experimental tracks from ENCODE, GTEx, and other large-scale projects. Supports programmatic data retrieval through REST API, MySQL database access, and downloadable track data for systematic genome analysis and cross-species comparative studies.
+  > UCSC Genome Browser 是一个综合平台，用于跨多物种与多版本基因组组装探索基因组注释、比较基因组学与实验数据。为智能体提供参考序列、基因预测、调控元件、保守性评分、变异数据以及来自 ENCODE、GTEx 等大型项目的海量实验轨道的一体化访问。支持通过 REST API 编程检索、MySQL 数据库访问和轨道数据下载，用于系统化基因组分析与跨物种比较研究。
 
 - **[COSMIC: Catalogue of Somatic Mutations in Cancer](https://cancer.sanger.ac.uk/cosmic)** `Wellcome Sanger Institute`
 
-  > COSMIC is the world's most comprehensive database of somatic mutations in human cancer, cataloging millions of tumor-associated genetic alterations across cancer types and genes. Integrates data from large-scale cancer genome sequencing projects (TCGA, ICGC) with manually curated literature-derived mutations, providing agents with mutation frequencies, tissue distributions, functional predictions, and drug resistance associations. Features cancer gene census annotations, fusion gene data, copy number variants, and structural rearrangements accessible through web interface, downloads, and programmatic API for cancer genomics analysis.
+  > COSMIC 是全球最全面的人类癌症体细胞突变数据库，收录跨多种癌症类型与基因的数百万肿瘤相关遗传改变。整合大型癌症基因组测序项目（TCGA、ICGC）数据与人工整理的文献突变，为智能体提供突变频率、组织分布、功能预测与耐药关联等信息。包含癌症基因普查注释、融合基因数据、拷贝数变异和结构重排，可通过网页、下载与 API 访问，用于癌症基因组学分析。
 
 - **[Open Targets Genetics: Systematic drug target identification and prioritization](https://genetics.opentargets.org/)** `Open Targets`
 
-  > Open Targets Genetics is a comprehensive platform integrating genome-wide association studies (GWAS), functional genomics, and variant-to-gene mapping to establish disease-gene relationships for therapeutic target discovery. Aggregates data from GWAS Catalog, UK Biobank, FinnGen, and other sources with locus-to-gene scoring, quantitative trait loci (QTL) data, and pathway enrichment analyses. Enables agents to prioritize drug targets based on genetic evidence strength, explore variant functional consequences, and assess target tractability through systematic integration of population genetics and molecular data.
+  > Open Targets Genetics 是一个综合平台，整合 GWAS、功能基因组学与变异-基因映射，用于建立疾病-基因关系以发现治疗靶点。汇聚 GWAS Catalog、UK Biobank、FinnGen 等来源数据，并提供位点-基因评分、数量性状位点（QTL）数据与通路富集分析。使智能体能够基于遗传证据强度进行靶点优先级排序，探索变异的功能影响，并通过系统整合群体遗传与分子数据评估靶点可成药性。
 
 - **[RegulomeDB: Annotation of regulatory variants in the human genome](http://www.regulomedb.org/)** `Stanford University`
 
-  > RegulomeDB is a database annotating regulatory potential of human genetic variants using evidence from ENCODE, Roadmap Epigenomics, and other functional genomics projects. Provides scoring of non-coding variants based on transcription factor binding, DNase hypersensitivity, histone modifications, chromatin states, and expression quantitative trait loci (eQTL) associations. Enables agents to prioritize regulatory variants, predict functional impacts on gene expression, and identify variants affecting transcriptional regulation in cell type-specific contexts.
+  > RegulomeDB 是一个用于注释人类遗传变异调控潜力的数据库，基于 ENCODE、Roadmap Epigenomics 等功能基因组学项目的证据。依据转录因子结合、DNase 超敏、组蛋白修饰、染色质状态与表达数量性状位点（eQTL）关联对非编码变异进行评分。使智能体能够优先级排序调控变异、预测对基因表达的功能影响，并识别在特定细胞类型中影响转录调控的变异。
 
 - **[GEO: Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/)** `NCBI`
 
-  > GEO is a public repository archiving high-throughput gene expression and functional genomics data from microarray, RNA-seq, ChIP-seq, and other platforms across millions of samples. Provides curated datasets (GEO DataSets), standardized sample metadata, platform annotations, and processed expression matrices enabling agents to perform meta-analyses and comparative transcriptomics studies. Supports programmatic access through GEOquery API, direct data downloads, and integration with NCBI's analysis tools for systematic exploration of gene expression patterns across experimental conditions, tissues, and diseases.
+  > GEO 是一个公共仓库，存档来自芯片、RNA-seq、ChIP-seq 等平台的高通量基因表达与功能基因组学数据，覆盖数百万样本。提供整理后的数据集（GEO DataSets）、标准化样本元数据、平台注释与处理后的表达矩阵，支持智能体进行荟萃分析与比较转录组研究。支持 GEOquery API 编程访问、直接下载数据，并可与 NCBI 分析工具集成，用于系统探索不同实验条件、组织与疾病中的基因表达模式。
 
 - **[SRA: Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra/)** `NCBI`
 
-  > SRA is the largest public repository for high-throughput sequencing data, storing raw sequencing reads and alignment information from next-generation sequencing platforms. Part of the International Nucleotide Sequence Database Collaboration (INSDC) with EBI and DDBJ, SRA contains over 25 petabase pairs from 14.8M+ runs spanning all branches of life including genomic, transcriptomic, metagenomic, and epigenomic studies. Agents access SRA data through E-utilities API, SRA Toolkit for format conversion (FASTQ, BAM), and cloud platforms (AWS S3, Google Cloud BigQuery) enabling large-scale sequence data retrieval, reanalysis of published datasets, and meta-analyses across thousands of sequencing experiments for comparative genomics and variant discovery.
+  > SRA 是最大的公共高通量测序数据仓库，存储来自新一代测序平台的原始读段及比对信息。作为 INSDC（与 EBI、DDBJ）的一部分，SRA 收录超过 25 Pb 的数据、1,480 万+ 运行记录，覆盖基因组学、转录组学、宏基因组学和表观基因组学等生命科学分支。智能体可通过 E-utilities API、SRA Toolkit（FASTQ、BAM 转换）以及云平台（AWS S3、Google Cloud BigQuery）访问数据，实现大规模序列检索、已发表数据集再分析及跨成千上万实验的荟萃分析，用于比较基因组学与变异发现。
 
 - **[ENCODE: Encyclopedia of DNA Elements](https://www.encodeproject.org/)** `NHGRI`
 
-  > ENCODE systematically maps functional elements in human and mouse genomes through comprehensive experimental characterization of transcription, transcription factor binding, chromatin structure, histone modifications, and DNA methylation. Phase III data includes 5,992 experimental datasets across 503 cell/tissue types, defining 926,535 human and 339,815 mouse candidate cis-regulatory elements covering 7.9% and 3.4% of respective genomes. Agents utilize ENCODE data for regulatory element annotation, epigenomic state analysis, variant interpretation in non-coding regions, and understanding gene regulation mechanisms. Data accessible through ENCODE Portal REST API, available on AWS Open Data Registry, with uniform processing pipelines ensuring high-quality ChIP-seq, RNA-seq, ATAC-seq, and Hi-C datasets.
+  > ENCODE 通过对转录、转录因子结合、染色质结构、组蛋白修饰与 DNA 甲基化的系统实验刻画，绘制人类与小鼠基因组的功能元件图谱。第三阶段数据包含 5,992 个实验数据集，覆盖 503 种细胞/组织类型，定义了 926,535 个候选人类顺式调控元件与 339,815 个小鼠顺式调控元件，分别覆盖其基因组的 7.9% 与 3.4%。智能体可利用 ENCODE 数据进行调控元件注释、表观基因组状态分析、非编码区变异解读及基因调控机制研究。数据可通过 ENCODE Portal REST API 访问，并在 AWS Open Data Registry 发布，统一处理流程保障高质量 ChIP-seq、RNA-seq、ATAC-seq 与 Hi-C 数据集。
 
 - **[NCBI RefSeq: Reference Sequence Database](https://www.ncbi.nlm.nih.gov/refseq/)** `NCBI`
 
-  > RefSeq provides curated, non-redundant reference sequences for genomes, transcripts, and proteins across 55,000+ organisms spanning prokaryotes, eukaryotes, and viruses. Distinguished by unique accession format (e.g., NM_, NP_), RefSeq records integrate information from multiple sources with expert curation, representing current consensus sequences with comprehensive functional annotation including coding regions, conserved domains, variation, and standardized nomenclature. Agents use RefSeq as the gold standard for sequence alignment, variant annotation, gene identification, and comparative genomics. Accessible via Entrez queries, BLAST searches, FTP downloads, and programmatic retrieval through E-utilities, with specialized projects including MANE (matched clinical transcripts), RefSeqGene (clinical reference standards), and RefSeq Functional Elements.
+  > RefSeq 提供覆盖 55,000+ 物种（原核、生物、真核与病毒）的经专家整理、非冗余参考序列（基因组、转录本与蛋白质）。其唯一的登录号格式（如 NM_、NP_）便于识别；记录整合多源信息并经过专家审校，代表当前共识序列，包含编码区、保守结构域、变异与标准化命名等完整功能注释。智能体将 RefSeq 作为序列比对、变异注释、基因识别与比较基因组学的金标准。可通过 Entrez 查询、BLAST、FTP 下载与 E-utilities 编程检索访问，并包含 MANE（匹配临床转录本）、RefSeqGene（临床参考标准）与 RefSeq Functional Elements 等专项项目。
 
 - **[Ensembl: Genome Browser and Annotation System](http://www.ensembl.org/index.html)** `EMBL-EBI`
 
-  > Ensembl provides comprehensive genome annotation, comparative genomics, and variation data for 50,000+ genomes through automated annotation pipelines and expert curation. The system integrates gene predictions, homology relationships, regulatory features, genetic variation (SNPs, indels, structural variants), and phenotype associations within an interactive genome browser supporting vertebrates via main Ensembl site and non-vertebrates through Ensembl Genomes (Plants, Metazoa, Bacteria, Fungi, Protists). Agents leverage Ensembl's REST API and Perl API to programmatically retrieve gene structures, orthology mappings, variant annotations, regulatory build data, and cross-species alignments. Includes Variant Effect Predictor (VEP) for variant consequence prediction and BioMart for bulk data extraction across multiple species and data types.
+  > Ensembl 通过自动化注释管道和专家管理，为 50,000 多个基因组提供全面的基因组注释、比较基因组学和变异数据。该系统在交互式基因组浏览器中整合了基因预测、同源关系、调控特征、遗传变异（SNP、插入缺失、结构变异）和表型关联，通过主 Ensembl 站点支持脊椎动物，通过 Ensembl Genomes（植物、后生动物、细菌、真菌、原生生物）支持非脊椎动物。智能体利用 Ensembl 的 REST API 和 Perl API 以编程方式检索基因结构、直系同源映射、变异注释、调控构建数据和跨物种比对。包括用于变异后果预测的变异效应预测器 (VEP) 和用于跨多个物种和数据类型批量数据提取的 BioMart。
 
 
 ### 分子和结构数据库
 
 - **[PDB: Protein Data Bank](https://www.rcsb.org/)** `RCSB`
 
-  > PDB is the global repository for experimentally determined three-dimensional structures of proteins, nucleic acids, and complex assemblies determined by X-ray crystallography, NMR spectroscopy, and cryo-electron microscopy. Provides atomic coordinates, experimental data, structural quality metrics, and functional annotations for hundreds of thousands of biomolecular structures enabling agents to perform structure-based drug design, protein engineering, and molecular function prediction. Features advanced search capabilities, structure alignment tools, and programmatic access through REST API and file downloads in PDB, mmCIF, and other standard formats.
+  > PDB 是全球实验解析的蛋白质、核酸及复合体三维结构的存储库，结构来源于 X 射线晶体学、NMR 与冷冻电镜等技术。提供原子坐标、实验数据、结构质量指标与功能注释，覆盖数十万生物大分子结构，使智能体能够进行结构基础的药物设计、蛋白工程与分子功能预测。具备高级检索、结构比对工具，并支持通过 REST API 与 PDB、mmCIF 等标准格式文件下载进行编程访问。
 - **[miRBase: The MicroRNA Database](https://www.mirbase.org/)** `University of Manchester`
 
-  > miRBase is the primary online repository for published microRNA sequences, nomenclature, annotations, and predicted gene targets across metazoan, plant, and viral genomes. Provides curated miRNA gene sequences, genomic locations, hairpin precursor structures, mature miRNA sequences, expression data, and standardized nomenclature for thousands of microRNA loci across hundreds of organisms. Enables agents to identify miRNAs, analyze post-transcriptional gene regulation mechanisms, predict miRNA-target interactions, explore regulatory networks in development and disease, and retrieve sequence data through web interface, downloadable flat files, and MySQL database access for non-coding RNA research.
+  > miRBase 是已发表 microRNA 序列、命名、注释与预测靶基因的主要在线仓库，覆盖后生动物、植物与病毒基因组。提供整理后的 miRNA 基因序列、基因组位置、发夹前体结构、成熟 miRNA 序列、表达数据与标准化命名，涵盖数百物种的数千 miRNA 位点。通过网页、可下载平面文件与 MySQL 数据库访问，支持智能体识别 miRNA、分析转录后调控机制、预测 miRNA-靶基因相互作用并探索发育与疾病中的调控网络。
 - **[UniProt: Universal Protein Resource](https://www.uniprot.org/)** `UniProt Consortium`
 
-  > UniProt is the most comprehensive and high-quality protein sequence and functional information database, integrating data from scientific literature and computational analyses into unified protein records. Provides expertly curated annotations in Swiss-Prot including protein function, subcellular localization, post-translational modifications, protein-protein interactions, disease associations, and structural features, alongside computationally annotated TrEMBL entries for complete proteome coverage. Enables agents to retrieve standardized protein identifiers, cross-references to over 150 biological databases, sequence variants, and GO term annotations through web services, SPARQL endpoints, and bulk data downloads.
+  > UniProt 是最全面且高质量的蛋白质序列与功能信息数据库，将文献与计算分析数据整合为统一的蛋白记录。Swiss-Prot 提供专家整理的蛋白功能、亚细胞定位、翻译后修饰、蛋白互作、疾病关联与结构特征注释，TrEMBL 提供计算注释条目以实现全蛋白组覆盖。通过网页服务、SPARQL 端点与批量下载，支持智能体获取标准化蛋白标识符、与 150+ 生物数据库的交叉引用、序列变异与 GO 术语注释。
 
 - **[AlphaFold DB: AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/)** `DeepMind & EMBL-EBI`
 
-  > AlphaFold DB provides AI-predicted protein structures for over 200 million proteins across all domains of life, generated using DeepMind's AlphaFold system achieving near-experimental accuracy. Offers high-confidence structural models with per-residue confidence scores (pLDDT) and predicted aligned error (PAE) matrices for virtually complete proteomes including human, model organisms, and UniProt reference proteomes. Enables agents to access predicted structures for proteins lacking experimental data through downloadable coordinate files, interactive 3D visualization, and programmatic API, dramatically expanding structural coverage for structure-based analysis and computational drug discovery.
+  > AlphaFold DB 提供由 DeepMind AlphaFold 系统生成的 AI 预测蛋白结构，覆盖生命全域 2 亿+ 蛋白，精度接近实验水平。为几乎完整的蛋白组（包含人类、模式生物与 UniProt 参考蛋白组）提供高置信结构模型，并给出每个残基置信度分数（pLDDT）和预测对齐误差（PAE）矩阵。通过可下载坐标文件、交互式 3D 可视化与编程 API，支持智能体获取缺乏实验数据的蛋白结构，显著扩展结构覆盖范围，用于结构生物学分析与计算药物发现。
 
 - **[InterPro: Protein Sequence Analysis and Classification](https://www.ebi.ac.uk/interpro/)** `EMBL-EBI`
 
-  > InterPro integrates protein signatures from multiple member databases (Pfam, PROSITE, SMART, PRINTS, ProDom) into a unified classification system for protein families, domains, and functional sites. Provides comprehensive functional annotation through sequence-based predictions of conserved regions, structural domains, active sites, and binding sites with hierarchical organization and GO term associations. Enables agents to infer protein function, identify evolutionary relationships, predict domain architecture, and annotate novel sequences through InterProScan service, web interface, and downloadable signature libraries for high-throughput protein classification.
+  > InterPro 将多个成员数据库（Pfam、PROSITE、SMART、PRINTS、ProDom）的蛋白签名整合为统一的蛋白家族、结构域与功能位点分类体系。通过基于序列的保守区、结构域、活性位点与结合位点预测提供全面功能注释，并具备层级组织与 GO 术语关联。通过 InterProScan 服务、网页界面与可下载签名库，支持智能体推断蛋白功能、识别进化关系、预测结构域架构并注释新序列，实现高通量蛋白分类。
 
 - **[KEGG: Kyoto Encyclopedia of Genes and Genomes](https://www.genome.jp/kegg/)** `Kanehisa Laboratories`
 
-  > KEGG is a comprehensive database integrating genomic, chemical, and systemic functional information through manually curated metabolic pathways, regulatory networks, and disease associations across thousands of organisms. Provides pathway maps, enzyme reactions, compound structures, drug-target relationships, disease genes, and genome annotations enabling agents to analyze biological systems at molecular and cellular levels. Features KEGG Orthology for functional annotation, BRITE hierarchies for biological entities, and network-based approaches for understanding gene functions, metabolic capabilities, and drug mechanisms through REST API and flat file downloads.
+  > KEGG 是一个综合数据库，通过人工整理的代谢通路、调控网络与疾病关联，整合跨上千物种的基因组、化学与系统功能信息。提供通路图、酶反应、化合物结构、药物-靶点关系、疾病基因与基因组注释，使智能体能够在分子与细胞层面分析生物系统。包含用于功能注释的 KEGG Orthology、用于生物实体的 BRITE 层级体系，以及用于理解基因功能、代谢能力与药物机制的网络分析方法，可通过 REST API 与平面文件下载访问。
 
 - **[Reactome: Pathway Knowledgebase](https://reactome.org/)** `Reactome`
 
-  > Reactome is a manually curated, peer-reviewed database of human biological pathways and processes, providing detailed molecular mechanisms with experimental evidence and cross-species pathway projections. Features hierarchically organized pathways covering metabolism, signal transduction, transcriptional regulation, and disease processes with protein-protein interactions, post-translational modifications, and subcellular localization information. Supports agents with pathway enrichment analysis tools, pathway diagram exports, programmatic access through REST API and graph database queries, and integration with omics data for functional interpretation and systems biology analysis.
+  > Reactome 是一个经过人工整理和同行评审的人类生物通路与过程数据库，提供具备实验依据的详细分子机制，并包含跨物种通路投影。通路按层级组织，覆盖代谢、信号转导、转录调控与疾病过程，并包含蛋白-蛋白相互作用、翻译后修饰与亚细胞定位信息。通过通路富集分析工具、通路图导出、REST API 与图数据库查询等方式支持智能体，并可与组学数据整合进行功能解读与系统生物学分析。
 
 - **[JASPAR: Open-Access Database of Transcription Factor Binding Profiles](https://jaspar.genereg.net/)** `JASPAR Consortium`
 
-  > JASPAR is the largest open-access database of curated, non-redundant transcription factor (TF) binding profiles derived from published collections of experimentally defined binding sites for eukaryotes. Provides position frequency matrices (PFMs), position weight matrices (PWMs), sequence logos, and validated TF binding sites for hundreds of transcription factors across multiple species including human, mouse, and other model organisms. Enables agents to predict transcription factor binding sites in regulatory sequences, analyze promoter regions, identify cis-regulatory elements, and understand gene regulatory mechanisms through web-based scanning tools, downloadable matrix collections, and programmatic API access.
+  > JASPAR 是最大的开放获取转录因子（TF）结合谱数据库，汇集并整理来自已发表实验结合位点集合的、非冗余的真核 TF 结合数据。提供位置频率矩阵（PFM）、位置权重矩阵（PWM）、序列 logo 以及数百种转录因子的验证结合位点，覆盖人类、小鼠与其他模式生物。通过网页扫描工具、可下载的矩阵集合与编程 API，支持智能体预测调控序列中的 TF 结合位点、分析启动子区域、识别顺式调控元件并理解基因调控机制。
 
 - **[BindingDB: Database of Measured Binding Affinities](https://www.bindingdb.org/)** `UC San Diego`
 
-  > BindingDB is a public database of measured binding affinities focusing on interactions between proteins and small molecules relevant to drug discovery and chemical biology. Provides quantitative binding data including dissociation constants (Kd), inhibition constants (Ki), IC50, and EC50 values for hundreds of thousands of protein-ligand complexes extracted from peer-reviewed scientific literature and patents. Enables agents to analyze structure-activity relationships, build predictive QSAR models, support virtual screening campaigns, and inform medicinal chemistry decisions through searchable web interface, downloadable datasets, and programmatic access for computational drug design workflows.
+  > BindingDB 是一个公开的结合亲和力数据库，聚焦与药物发现和化学生物学相关的蛋白-小分子相互作用。提供来自同行评审文献与专利的数十万蛋白-配体复合物的定量结合数据，包括解离常数（Kd）、抑制常数（Ki）、IC50 与 EC50。通过可搜索的网页界面、可下载数据集与编程接口，支持智能体分析构效关系、构建 QSAR 预测模型、支持虚拟筛选，并为药物化学决策提供依据。
 
 - **[DrugBank: Comprehensive Bioinformatics and Cheminformatics Resource](https://www.drugbank.com/)** `University of Alberta`
 
-  > DrugBank is a comprehensive database combining detailed drug information with comprehensive molecular biology and pharmacology data for thousands of drug entries including FDA-approved drugs, experimental compounds, and nutraceuticals. Provides chemical structures, mechanisms of action, pharmacokinetics (ADME), pharmacodynamics, drug-drug interactions, drug-target relationships, metabolic pathways, adverse effects, dosing information, and clinical trial data. Supports agents with structured drug knowledge including protein targets, associated pathways, disease indications, patent information, and literature references accessible through web interface, REST API, and downloadable datasets for drug repurposing, polypharmacology analysis, and therapeutic target discovery.
+  > DrugBank 是一个综合数据库，将详细的药物信息与分子生物学和药理学数据整合，涵盖数千种药物条目，包括 FDA 批准药物、实验化合物与营养保健品。提供化学结构、作用机制、药代动力学（ADME）、药效学、药物相互作用、药物-靶点关系、代谢通路、不良反应、给药信息与临床试验数据。通过网页、REST API 与可下载数据集提供结构化药物知识（蛋白靶点、相关通路、疾病适应证、专利信息与文献引用），用于药物再利用、多靶点药理分析与治疗靶点发现。
 
 ### 专门的生物医学数据库
 
 - **[CellxGene: Single-Cell Data Explorer and Census](https://cellxgene.cziscience.com/)** `Chan Zuckerberg Initiative`
 
-  > CellxGene is a comprehensive platform for exploring, analyzing, and sharing single-cell RNA-seq datasets from diverse tissues, organisms, and experimental conditions across millions of individual cells. Provides the CZ CELLxGENE Discover collection with standardized, quality-controlled datasets annotated with cell types, tissues, diseases, and experimental metadata following community standards. Enables agents to query cell type-specific gene expression profiles, perform comparative analyses across studies, access curated cell annotations, and retrieve processed single-cell expression matrices through web interface, downloadable h5ad files, and programmatic API for large-scale single-cell genomics analysis.
+  > CellxGene 是一个综合平台，用于探索、分析和共享来自多组织、多物种与多实验条件的单细胞 RNA-seq 数据集，覆盖数百万细胞。提供 CZ CELLxGENE Discover 集合，包含遵循社区标准、经过质控并注释细胞类型、组织、疾病和实验元数据的数据集。通过网页、可下载的 h5ad 文件与编程 API，支持智能体查询细胞类型特异性表达谱、跨研究比较分析、获取整理后的细胞注释并检索处理后的单细胞表达矩阵，以进行大规模单细胞基因组学分析。
 
 
 - **[IUCN Red List: The IUCN Red List of Threatened Species](https://www.iucnredlist.org/)** `International Union for Conservation of Nature`
 
-  > IUCN Red List is the world's most comprehensive inventory of global conservation status assessments for biological species, providing extinction risk evaluations, population trends, and conservation needs for over 150,000 species. Offers detailed information on species distributions, population sizes, habitat requirements, ecological roles, threats, conservation actions, and Red List Categories (Extinct, Critically Endangered, Endangered, Vulnerable, etc.) based on standardized criteria. Supports agents analyzing biodiversity patterns, conservation priorities, extinction risk factors, and ecological research across taxonomic groups through searchable database, species accounts, spatial data downloads, and API access for conservation biology and macroecology applications.
+  > IUCN Red List 是全球最全面的物种保护现状评估名录，为超过 150,000 个物种提供灭绝风险评估、种群趋势与保护需求。基于标准化标准，提供物种分布、种群规模、栖息地需求、生态角色、威胁因素、保护行动以及红色名录等级（灭绝、极危、濒危、易危等）的详细信息。通过可搜索数据库、物种条目、空间数据下载与 API 访问，支持智能体分析生物多样性格局、保护优先级、灭绝风险因素及跨类群生态研究，适用于保护生物学与宏生态学应用。
 
 - **[Human Microbiome Project: Data Analysis and Coordination Center](https://commonfund.nih.gov/hmp)** `National Institutes of Health`
 
-  > Human Microbiome Project provides comprehensive metagenomic, metatranscriptomic, metabolomic, and clinical datasets characterizing microbial communities from multiple human body sites including gut, oral, skin, and urogenital regions. Offers standardized sampling protocols, reference microbial genomes, multi-omics data integration, and longitudinal microbiome profiles linking microbial community composition to human health and disease states. Enables agents to analyze host-microbiome interactions, study microbial diversity patterns, investigate metabolic functions of microbial communities, and explore relationships between microbiome dysbiosis and diseases through downloadable datasets, cloud-based analysis workbenches, and API access for microbiome research applications.
+  > Human Microbiome Project 提供全面的宏基因组、宏转录组、代谢组与临床数据集，刻画来自肠道、口腔、皮肤与泌尿生殖系统等人体部位的微生物群落。提供标准化采样流程、参考微生物基因组、多组学数据整合与纵向微生物组剖面，将群落组成与健康/疾病状态关联。通过可下载数据集、云端分析工作台与 API 访问，支持智能体分析宿主-微生物相互作用、研究微生物多样性模式、探究群落代谢功能，并探索微生物组失衡与疾病的关系。
 
 - **[Addgene: Nonprofit Plasmid Repository](https://www.addgene.org/)** `Addgene`
 
-  > Addgene is a nonprofit plasmid repository archiving and distributing research-ready molecular biology tools for genome engineering, gene expression, and functional genomics. The collection contains 147,000+ plasmids including CRISPR/Cas systems, lentiviral vectors, fluorescent protein constructs, optogenetic tools, shRNA knockdown plasmids, and expression backbones spanning all major model organisms and experimental systems. Each plasmid entry includes annotated sequence maps, cloning information, resistance markers, quality control data, and links to original publications ensuring proper attribution to depositing laboratories. Agents access Addgene's database through BLAST sequence search for finding similar constructs, browsing curated collections by application (genome editing, protein tagging, biosensors), and retrieving standardized plasmid sequences with comprehensive metadata for computational design of cloning strategies and experimental planning.
+  > Addgene 是一个非营利性质粒资源库，存档并分发用于基因组工程、基因表达与功能基因组学的研究级分子生物学工具。收录 147,000+ 质粒，涵盖 CRISPR/Cas 系统、慢病毒载体、荧光蛋白构建、光遗传工具、shRNA 干扰质粒与表达载体骨架，覆盖主要模式生物与实验系统。每个质粒条目包含注释序列图谱、克隆信息、抗性标记、质控数据与原始文献链接，确保对存储实验室的恰当署名。智能体可通过 BLAST 序列搜索找到相似构建体，按应用场景（基因编辑、蛋白标记、生物传感器）浏览整理集合，并获取带完整元数据的标准化质粒序列，用于克隆策略的计算设计与实验规划。
 - **[10X Genomics Datasets](https://www.10xgenomics.com/datasets)** `10x Genomics`
 
-  > 10X Genomics provides publicly available reference datasets from Chromium single-cell and spatial genomics platforms including single-cell RNA-seq (3' and 5' gene expression), immune profiling (V(D)J sequencing), ATAC-seq, multiome (RNA+ATAC), and Visium spatial transcriptomics across diverse tissue types and species. Datasets include PBMC samples, tissue dissociations, cancer specimens, and developmental studies with accompanying FASTQ files, processed gene-barcode matrices, analysis outputs from Cell Ranger pipeline, and Loupe Browser visualization files. Agents access these gold-standard benchmark datasets for method validation, pipeline testing, tutorial development, and comparative analysis of single-cell analysis algorithms. All datasets include comprehensive metadata on sample preparation, sequencing parameters, and quality metrics enabling reproducible computational workflows.
+  > 10X Genomics 提供来自 Chromium 单细胞与空间基因组学平台的公开参考数据集，包括单细胞 RNA-seq（3' 与 5' 基因表达）、免疫谱分析（V(D)J 测序）、ATAC-seq、多组学（RNA+ATAC）以及 Visium 空间转录组学，覆盖多样组织类型与物种。数据集包含 PBMC 样本、组织解离样本、肿瘤标本与发育研究，并附带 FASTQ 文件、处理后的基因-条形码矩阵、Cell Ranger 流水线分析输出与 Loupe Browser 可视化文件。智能体可将这些金标准基准数据用于方法验证、流程测试、教程开发与单细胞算法的对比分析。所有数据集均包含样本制备、测序参数与质量指标等完整元数据，支持可复现的计算工作流。
 
 ### 科学文献
 
 - **[PubMed: Free Biomedical Literature Search Engine](https://pubmed.ncbi.nlm.nih.gov/)** `NCBI`
 
-  > PubMed is a free comprehensive database providing access to over 39 million citations and abstracts for biomedical literature from MEDLINE, life science journals, and online books spanning medicine, biology, biochemistry, and related disciplines. Features MeSH (Medical Subject Headings) controlled vocabulary for precise searching, advanced query builders, clinical queries filters, and automated linking to full-text articles via PubMed Central and publisher websites. Enables agents to perform systematic literature searches, retrieve evidence-based information, access publication metadata, and utilize E-utilities API for programmatic access supporting automated literature reviews, knowledge extraction, and citation network analysis for biomedical research applications.
+  > PubMed 是一个免费的综合性数据库，提供超过 3900 万条生物医学文献的引文与摘要，来源于 MEDLINE、生命科学期刊与在线图书，覆盖医学、生物学、生物化学等相关学科。具备 MeSH 受控词表用于精确检索、高级查询构建器、临床检索过滤器，并通过 PubMed Central 与出版社网站自动链接全文。支持智能体进行系统性文献检索、获取循证信息、访问出版元数据，并利用 E-utilities API 实现自动化文献综述、知识抽取与引文网络分析等生物医学研究应用。
 
 - **[Google Scholar: Stand on the Shoulders of Giants](https://scholar.google.com/)** `Google`
 
-  > Google Scholar is a comprehensive academic search engine indexing scholarly literature across all disciplines including peer-reviewed papers, theses, dissertations, books, preprints, patents, and conference proceedings from academic publishers, universities, and scholarly organizations. Provides citation metrics, related articles discovery, author profiles, and cross-disciplinary coverage extending beyond biomedical literature to physical sciences, social sciences, arts, and humanities. Enables agents to discover interdisciplinary research connections, track citation networks, assess research impact through h-index and citation counts, and access diverse scholarly resources through broad indexing that complements domain-specific databases for comprehensive knowledge discovery.
+  > Google Scholar 是一个综合性的学术搜索引擎，索引来自学术出版商、大学与学术组织的同行评审论文、学位论文、书籍、预印本、专利与会议论文，覆盖所有学科。提供引文指标、相关文献发现、作者主页与跨学科覆盖，范围超出生物医学文献，延伸至物理科学、社会科学、艺术与人文学科。支持智能体发现跨学科研究关联、跟踪引文网络、通过 h-index 与引文计数评估影响力，并通过广泛索引补充领域数据库以实现全面知识发现。
 
 - **[bioRxiv: The Preprint Server for Biology](https://www.biorxiv.org/)** `Cold Spring Harbor Laboratory`
 
-  > bioRxiv is a free online preprint repository enabling rapid dissemination of biological research findings prior to peer review, covering over 25 subject areas including genomics, neuroscience, bioinformatics, cell biology, developmental biology, and systems biology. Provides immediate public access to complete unpublished manuscripts with digital object identifiers (DOIs) for citation, version tracking for manuscript updates, and automated linking to subsequently published journal articles. Enables agents to access cutting-edge research methods, emerging computational tools, preliminary findings, and novel experimental approaches months before formal publication, essential for tracking rapidly evolving research areas, identifying trending methodologies, and maintaining awareness of latest developments in biological sciences through RSS feeds, API access, and bulk download capabilities.
+  > bioRxiv 是一个免费的生物学预印本平台，可在同行评审前快速发布研究成果，覆盖基因组学、神经科学、生物信息学、细胞生物学、发育生物学与系统生物学等 25+ 领域。提供完整未发表手稿的即时公开访问、用于引用的 DOI、版本更新跟踪，并自动链接后续正式发表的期刊文章。使智能体能够在正式发表前数月获取前沿研究方法、新兴计算工具、初步发现与创新实验思路；通过 RSS、API 与批量下载能力跟踪快速演进的研究领域、识别趋势方法并保持对生物科学最新进展的关注。
 
 - **[Google Search: Search the World's Information](https://www.google.com/)** `Google`
 
-  > Google Search is a comprehensive web search engine providing real-time access to billions of web pages, news articles, images, videos, and diverse online content across the internet. Offers advanced search operators, date filtering for recent content, site-specific searches, and natural language query processing enabling agents to discover breaking research news, conference announcements, laboratory updates, and emerging scientific discussions beyond traditional literature databases. Features programmable search through Custom Search JSON API and web scraping capabilities for systematic information gathering, real-time trend monitoring, and discovery of preliminary research findings shared on institutional websites, scientific blogs, and research organization announcements before formal publication.
+  > Google Search 是一个综合性的网络搜索引擎，可实时访问互联网上数十亿网页、新闻、图片、视频与多样内容。提供高级搜索运算符、时间过滤、站点限定检索与自然语言查询处理，使智能体能够发现传统文献数据库之外的突发研究新闻、会议公告、实验室动态与新兴科学讨论。通过 Custom Search JSON API 提供可编程搜索，并可结合网页抓取能力进行系统化信息收集、实时趋势监测，以及发现发布前出现在机构网站、科研博客或研究组织公告中的初步研究成果。
 
 - **[Zenodo: Open Science Repository](https://zenodo.org/)** `CERN & OpenAIRE`
 
-  > Zenodo is a general-purpose open research repository operated by CERN storing all forms of research outputs including datasets, publications, software, presentations, posters, images, videos, and code across all scientific disciplines. Accepts uploads of any size (50GB default per dataset with higher quotas available) and format without restrictions, providing long-term preservation in CERN Data Centre with automatic DOI assignment for citation, versioning support, GitHub integration, and flexible access control (open, embargoed, restricted, closed). Agents utilize Zenodo for accessing supplementary datasets from publications, retrieving research software packages, downloading replication data for computational studies, and programmatically querying metadata via OAI-PMH API. Particularly valuable for accessing domain-specific communities (e.g., biomedical data collections, computational biology workflows) and ensuring reproducibility through preservation of exact analysis code and intermediate data files.
+  > Zenodo 是 CERN 运营的通用开放科研存储库，覆盖所有学科，存储数据集、出版物、软件、报告、海报、图像、视频与代码等多种研究成果。可无格式限制上传任意大小的数据（默认每个数据集 50GB，可申请更高配额），在 CERN 数据中心长期保存，并自动分配 DOI 便于引用，支持版本管理、GitHub 集成与灵活访问控制（开放、限期公开、受限、关闭）。智能体可用 Zenodo 获取论文补充数据、研究软件包与可重复性数据，并通过 OAI-PMH API 编程检索元数据。对访问领域社区（如生物医学数据集、计算生物学工作流）与通过保存精确代码和中间数据来确保可复现性尤其有价值。
 
 ### 知识库总结表
 
@@ -1083,327 +1083,327 @@ This section curates benchmarks for evaluating AI systems in biomedical domains,
 ### 核心NGS管道
 
 - **[FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)** `Babraham Bioinformatics`
-  > A quality control tool for high-throughput sequencing data that generates comprehensive QC reports including per-base quality scores, sequence length distribution, adapter contamination, and overrepresented sequences. Available as a command-line tool or GUI application with visual HTML reports. AI agents can use FastQC to automatically assess data quality before alignment, identify problematic samples requiring trimming, and determine optimal preprocessing parameters based on quality metrics.
+  > 用于高通量测序数据的质量控制工具，生成包含按碱基质量分数、序列长度分布、接头污染和过度代表序列等在内的综合 QC 报告。提供命令行工具或 GUI 应用，并输出可视化 HTML 报告。AI 智能体可使用 FastQC 在比对前自动评估数据质量、识别需要修剪的样本，并基于质量指标确定最佳预处理参数。
 
 - **[Trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic)** `Usadel Lab`
-  > A flexible read trimming tool for Illumina NGS data that performs adapter removal, quality-based trimming, and filtering of low-quality reads. Supports paired-end and single-end data with configurable parameters for sliding window trimming, minimum length filtering, and quality thresholds. AI agents can invoke Trimmomatic to clean raw sequencing data based on FastQC reports, automatically determine optimal trimming parameters, and prepare high-quality reads for alignment workflows.
+  > 灵活的 Illumina NGS 读段修剪工具，执行接头去除、基于质量的修剪与低质量读段过滤。支持双端与单端数据，可配置滑动窗口修剪、最小长度过滤与质量阈值。AI 智能体可基于 FastQC 报告清洗原始测序数据，自动确定最佳修剪参数，并为比对流程准备高质量读段。
 
 - **[BWA: Burrows-Wheeler Aligner](http://bio-bwa.sourceforge.net/)** `Heng Li Lab`
-  > A fast and memory-efficient aligner for mapping short DNA sequences (70bp-1Mbp) against large reference genomes using the Burrows-Wheeler Transform algorithm. Includes three algorithms: BWA-backtrack for reads <100bp, BWA-SW for longer reads, and BWA-MEM (most commonly used) for 70bp-1Mbp sequences with superior performance on split alignments. AI agents can use BWA-MEM for whole-genome sequencing alignment, automatically select appropriate algorithms based on read length, and generate sorted BAM files for variant calling pipelines.
+  > 快速且内存高效的比对器，使用 Burrows-Wheeler 变换算法将短 DNA 序列（70bp-1Mbp）比对到大型参考基因组。包含三种算法：BWA-backtrack（<100bp 读段）、BWA-SW（更长读段）与 BWA-MEM（最常用，适用于 70bp-1Mbp，擅长分裂比对）。AI 智能体可使用 BWA-MEM 进行全基因组比对，根据读长自动选择算法，并生成排序后的 BAM 文件供变异检测流程使用。
 
 - **[STAR: Spliced Transcripts Alignment to a Reference](https://github.com/alexdobin/STAR)** `Alexander Dobin`
-  > An ultrafast RNA-seq aligner designed to detect splice junctions with high accuracy, achieving speeds >100 million reads/hour. Uses suffix array-based mapping with 2-pass alignment mode for improved junction detection. Outputs include aligned BAM files, splice junction tables, and gene-level read counts. AI agents can execute STAR for transcriptome alignment tasks, automatically configure genome indexes, detect novel splice variants, and generate count matrices for differential expression analysis.
+  > 超高速 RNA-seq 比对器，旨在高精度检测剪接位点，速度可达每小时超过 1 亿条读段。采用后缀数组映射并支持 2-pass 比对模式以提升剪接检测。输出包含比对后的 BAM、剪接位点表与基因层面读数。AI 智能体可执行 STAR 进行转录组比对，自动配置基因组索引，检测新剪接变体，并生成差异表达分析所需的计数矩阵。
 
 - **[Minimap2](https://github.com/lh3/minimap2)** `Heng Li`
-  > A versatile alignment tool optimized for long-read sequencing data (PacBio, Oxford Nanopore) and assembly-to-assembly comparison, supporting read lengths from kilobases to megabases. Features include fast all-vs-all alignment, spliced alignment for long-read RNA-seq, and accurate mapping for noisy long reads. AI agents can use Minimap2 for long-read genomic/transcriptomic alignment, structural variant detection workflows, and rapid comparison of draft genome assemblies.
+  > 面向长读长测序数据（PacBio、Oxford Nanopore）和组装-组装对比优化的通用比对工具，支持从千碱基到兆碱基的读长。具备快速 all-vs-all 比对、长读长 RNA-seq 的剪接比对以及对噪声长读段的准确映射。AI 智能体可使用 Minimap2 进行长读长基因组/转录组比对、结构变异检测流程，以及草图基因组组装的快速对比。
 
 - **[Samtools](http://www.htslib.org/)** `Genome Research Ltd`
-  > A comprehensive suite of utilities for manipulating SAM/BAM/CRAM format alignments, providing core functionalities including sorting, indexing, merging, filtering, and format conversion. Supports parallel processing, CRAM compression (up to 60% size reduction vs BAM), and region-specific data extraction. AI agents can invoke Samtools for standard BAM file operations (sort, index, merge, view), calculate alignment statistics, extract specific genomic regions, and prepare files for downstream variant calling or visualization.
+  > 一套用于操作 SAM/BAM/CRAM 格式比对的综合实用工具，提供核心功能，包括排序、索引、合并、过滤和格式转换。支持并行处理、CRAM 压缩（与 BAM 相比可减少高达 60% 的大小）和特定区域的数据提取。AI 智能体可以调用 Samtools 进行标准 BAM 文件操作（排序、索引、合并、查看），计算比对统计信息，提取特定基因组区域，并为下游变异调用或可视化准备文件。
 
 - **[BEDTools](https://bedtools.readthedocs.io/)** `Quinlan Lab`
-  > A powerful toolset for genome arithmetic operations on genomic intervals (BED, GFF, VCF formats), enabling tasks like intersection, merge, complement, and coverage calculations across genomic regions. Supports operations on millions of intervals with high efficiency. AI agents can use BEDTools to identify overlapping features between datasets, calculate coverage statistics, merge adjacent intervals, find closest features, and perform complex genomic interval queries essential for ChIP-seq, ATAC-seq, and variant analysis workflows.
+  > 一个强大的工具集，用于对基因组区间（BED、GFF、VCF 格式）进行基因组算术运算，支持交集、合并、补集和覆盖率计算等任务。支持对数百万个区间进行高效操作。AI 智能体可以使用 BEDTools 识别数据集之间的重叠特征，计算覆盖率统计信息，合并相邻区间，查找最近的特征，并执行对 ChIP-seq、ATAC-seq 和变异分析工作流程至关重要的复杂基因组区间查询。
 
 - **[Picard](https://broadinstitute.github.io/picard/)** `Broad Institute`
-  > A suite of Java-based command-line tools for manipulating high-throughput sequencing data and formats, including SAM/BAM/CRAM, VCF, and various quality metrics. Key functions include marking PCR duplicates, collecting alignment metrics, fixing mate-pair information, and converting between file formats. AI agents can invoke Picard to mark duplicate reads before variant calling, validate BAM file integrity, collect comprehensive alignment and insert size metrics, and ensure data quality standards for GATK-based analysis pipelines.
+  > 一套基于 Java 的命令行工具，用于处理高通量测序数据与格式（SAM/BAM/CRAM、VCF 等）以及各类质量指标。关键功能包括标记 PCR 重复、收集比对指标、修复 mate-pair 信息与格式转换。AI 智能体可调用 Picard 在变异检测前标记重复读段、校验 BAM 文件完整性、收集全面的比对与插入片段指标，并确保满足基于 GATK 流水线的质量标准。
 
 
 ### 基因组组装和变异分析
 
 - **[SPAdes: St. Petersburg genome Assembler](https://github.com/ablab/spades)** `Center for Algorithmic Biotechnology, St. Petersburg State University`
   
-  > A versatile de novo genome assembler designed for small genomes (bacteria, fungi) using short-read Illumina data, with specialized modes for single-cell, metagenomic, plasmid, and RNA-seq assembly. Uses multi-sized de Bruijn graphs and built-in error correction to handle uneven coverage and sequencing errors. AI agents can invoke SPAdes for bacterial genome assembly tasks, automatically select assembly modes based on data type, iteratively optimize k-mer sizes, and integrate with downstream annotation pipelines.
+  > 面向小基因组（细菌、真菌）的多用途 de novo 组装器，使用 Illumina 短读数据，并提供单细胞、宏基因组、质粒与 RNA-seq 组装模式。采用多 k 值 de Bruijn 图并内置纠错以处理不均匀覆盖与测序错误。AI 智能体可使用 SPAdes 进行细菌基因组组装，按数据类型自动选择组装模式，迭代优化 k-mer，并与下游注释流程集成。
   
 - **[Flye](https://github.com/fenderglass/Flye)** `Kolmogorov Lab`
-  > A long-read de novo assembler optimized for PacBio and Oxford Nanopore data, capable of assembling genomes ranging from bacterial to mammalian scale using repeat graph-based algorithms. Handles high error rates in raw long reads and produces accurate assemblies with excellent contiguity. AI agents can use Flye for long-read assembly workflows, automatically configure parameters based on coverage and read length, perform metagenomic assembly, and generate high-quality reference genomes for variant calling.
+  > 面向 PacBio 与 Oxford Nanopore 数据的长读长 de novo 组装器，采用基于重复图的算法，可组装从细菌到哺乳动物尺度的基因组。能够处理原始长读段的高错误率，并生成连续性优秀的高质量组装。AI 智能体可使用 Flye 进行长读长组装流程，根据覆盖度与读长自动配置参数，进行宏基因组组装，并生成用于变异检测的高质量参考基因组。
 
 - **[Canu](https://github.com/marbl/canu)** `Koren & Walenz Labs`
-  > A comprehensive long-read assembly toolkit for high-noise single-molecule sequencing (PacBio, Oxford Nanopore), featuring adaptive k-mer weighting, aggressive error correction, and optimized algorithms for large eukaryotic genomes. Includes modules for read correction, trimming, and assembly with support for distributed computing. AI agents can execute Canu for complex genome assembly projects, manage resource-intensive computations across HPC clusters, tune sensitivity parameters for repetitive regions, and produce chromosome-scale assemblies.
+  > 面向高噪声单分子测序（PacBio、Oxford Nanopore）的长读长组装工具包，具备自适应 k-mer 加权、强纠错与适用于大型真核基因组的优化算法。包含读段校正、修剪与组装模块，并支持分布式计算。AI 智能体可使用 Canu 执行复杂基因组组装项目，管理 HPC 集群上的高资源计算，针对重复区域调节敏感度参数，并产出染色体尺度的组装结果。
 
 - **[QUAST: QUality ASsessment Tool](https://github.com/ablab/quast)** `Center for Algorithmic Biotechnology`
-  > A comprehensive assembly quality evaluation tool that computes metrics including N50, misassemblies, genome fraction coverage, and gene completeness when reference genomes are available. Generates interactive HTML reports with visualizations and supports metagenomic assembly evaluation. AI agents can invoke QUAST to automatically assess assembly quality, compare multiple assembly strategies, identify potential misassemblies, and select optimal assembly parameters based on quantitative metrics.
+  > 综合性的组装质量评估工具，在有参考基因组时计算 N50、错组装、基因组覆盖比例、基因完整性等指标。生成包含可视化的交互式 HTML 报告，并支持宏基因组组装评估。AI 智能体可调用 QUAST 自动评估组装质量、比较多种组装策略、识别潜在错组装，并基于量化指标选择最佳组装参数。
 
 - **[Bandage: Bioinformatics Application for Navigating De novo Assembly Graphs Easily](https://github.com/rrwick/Bandage)** `Ryan Wick`
-  > A GUI-based visualization tool for exploring de Bruijn graphs and assembly graphs from tools like SPAdes and Velvet, enabling interactive inspection of graph structure, repeat regions, and assembly paths. Supports BLAST searches within graphs and custom graph coloring based on coverage or sequence identity. AI agents can leverage Bandage's command-line interface to generate assembly graph images, identify problematic regions in assemblies, visualize structural variants, and guide targeted assembly refinement.
+  > 用于可视化 de Bruijn 图与组装图的 GUI 工具（适用于 SPAdes、Velvet 等输出），支持交互式查看图结构、重复区域与组装路径。可在图内进行 BLAST 搜索，并支持基于覆盖度或序列相似度的自定义着色。AI 智能体可利用 Bandage 的命令行接口生成组装图像、识别组装问题区域、可视化结构变异，并指导有针对性的组装优化。
 
 - **[GATK: Genome Analysis Toolkit](https://gatk.broadinstitute.org/)** `Broad Institute`
-  > The gold-standard toolkit for variant discovery from high-throughput sequencing data, implementing best-practice workflows for germline and somatic variant calling including SNPs, indels, and CNVs. Features include base quality score recalibration, variant quality score recalibration, and joint genotyping across cohorts. AI agents can execute GATK workflows for clinical-grade variant calling, automatically apply VQSR filtering, perform multi-sample joint calling for population studies, and integrate with downstream annotation tools for variant interpretation.
+  > 高通量测序变异发现的金标准工具包，提供胚系与体细胞变异调用的最佳实践流程（包括 SNP、indel 与 CNV）。功能包括碱基质量分数校准、变异质量分数校准与跨队列联合分型。AI 智能体可执行 GATK 流程进行临床级变异检测，自动应用 VQSR 过滤，进行多样本联合调用，并与下游注释工具集成以支持变异解读。
 
 - **[bcftools](http://samtools.github.io/bcftools/)** `Genome Research Ltd`
-  > A comprehensive toolkit for VCF/BCF file manipulation and variant calling, providing utilities for filtering, merging, annotating, and calling variants from aligned sequencing data. Features highly optimized algorithms for large-scale population genomics with support for multi-sample calling. AI agents can use bcftools for rapid variant calling on BAM files, perform complex VCF filtering operations, merge multi-sample VCFs, calculate population statistics, and extract specific variants or samples for downstream analysis.
+  > 用于 VCF/BCF 文件处理与变异调用的综合工具集，提供过滤、合并、注释与从比对数据中调用变异等功能。针对大规模群体基因组学进行了高度优化，支持多样本调用。AI 智能体可使用 bcftools 在 BAM 上快速变异调用，执行复杂 VCF 过滤，合并多样本 VCF，计算群体统计量，并提取特定变异或样本用于下游分析。
 
 - **[Manta](https://github.com/Illumina/manta)** `Illumina`
-  > A structural variant (SV) caller designed to detect deletions, insertions, inversions, and translocations from paired-end sequencing data with high sensitivity and specificity. Uses paired and split-read evidence with local assembly refinement to accurately resolve breakpoints. AI agents can invoke Manta for detecting large genomic rearrangements, integrate SV calls with SNP/indel data for comprehensive variant analysis, identify cancer-related fusion genes, and prioritize pathogenic structural variants in clinical sequencing.
+  > 结构变异（SV）检测器，针对双端测序数据识别缺失、插入、倒位与易位，具备高灵敏度与高特异性。结合配对读段与分裂读段证据并进行局部组装精细化，以准确解析断点。AI 智能体可调用 Manta 检测大规模基因组重排，将 SV 与 SNP/indel 数据整合以进行全面变异分析，识别癌相关融合基因，并在临床测序中优先排序致病性结构变异。
 
 - **[FreeBayes](https://github.com/freebayes/freebayes)** `Erik Garrison`
   
-  > A Bayesian genetic variant detector designed to find SNPs, indels, and complex variants in populations, featuring haplotype-based variant calling without requiring read realignment. Supports both diploid and polyploid genomes with flexible ploidy settings. AI agents can use FreeBayes for population-scale variant calling, detect complex multi-nucleotide polymorphisms, perform somatic mutation detection in cancer samples, and generate high-quality variant calls from targeted sequencing panels.
+  > 贝叶斯遗传变异检测器，用于在人群中发现 SNP、indel 与复杂变异，采用基于单倍型的变异调用，无需读段重比对。支持二倍体与多倍体基因组，并可灵活设置倍性。AI 智能体可使用 FreeBayes 进行群体规模变异调用，检测复杂的多核苷酸多态性，在肿瘤样本中进行体细胞突变检测，并从靶向测序面板生成高质量变异结果。
   
 - **[Pindel](https://github.com/genome/pindel)** `Wellcome Trust Sanger Institute`
   
-  > A pattern-growth approach to detect breakpoints of large deletions, medium-sized insertions, inversions, and tandem duplications using paired-end short reads. Excels at detecting mid-size indels (1bp-10kb) often missed by standard variant callers. AI agents can execute Pindel to complement GATK/bcftools calls with improved indel detection, identify pathogenic deletion/insertion variants in clinical exomes, and characterize complex structural rearrangements in cancer genomes.
+  > 使用配对短读段的模式生长方法检测大缺失、中等大小插入、倒位与串联重复的断点。擅长发现标准变异调用器常漏检的中等尺度 indel（1bp-10kb）。AI 智能体可使用 Pindel 补充 GATK/bcftools 的调用结果，提升 indel 检出率，在临床外显子组中识别致病性缺失/插入变异，并刻画癌症基因组的复杂结构重排。
   
 - **[VEP: Variant Effect Predictor](https://www.ensembl.org/vep)** `EMBL-EBI / Ensembl`
   
-  > The most comprehensive variant annotation tool that predicts functional consequences of genomic variants on genes, transcripts, and proteins, integrating 30+ prediction algorithms (SIFT, PolyPhen, CADD) and clinical databases (ClinVar, gnomAD). Available as web interface, command-line tool, or REST API with support for custom annotations. AI agents can invoke VEP to annotate VCF files with transcript consequences, retrieve population frequencies, predict deleteriousness scores, identify clinically relevant variants, and generate structured reports for variant interpretation.
+  > 最全面的变异注释工具之一，用于预测基因组变异对基因、转录本与蛋白的功能影响，整合 30+ 预测算法（SIFT、PolyPhen、CADD）与临床数据库（ClinVar、gnomAD）。提供网页界面、命令行与 REST API，并支持自定义注释。AI 智能体可调用 VEP 对 VCF 进行转录本后果注释、获取群体频率、预测致损性评分、识别临床相关变异，并生成结构化报告用于变异解读。
   
 - **[SnpEff](https://pcingola.github.io/SnpEff/)** `Pablo Cingolani`
   
-  > A fast variant annotation and functional effect prediction tool that categorizes variants by impact (HIGH, MODERATE, LOW, MODIFIER) and provides gene-based annotations, amino acid changes, and codon degeneracy information. Supports 38,000+ genomes with pre-built databases. AI agents can use SnpEff for rapid batch variant annotation, prioritize high-impact variants, generate summary statistics of variant distributions across functional categories, and integrate with Galaxy workflows for automated variant analysis pipelines.
+  > 快速变异注释与功能效应预测工具，按影响程度（HIGH、MODERATE、LOW、MODIFIER）对变异分类，并提供基因注释、氨基酸改变与密码子简并信息。支持 38,000+ 基因组的预构建数据库。AI 智能体可使用 SnpEff 进行快速批量注释，优先排序高影响变异，生成功能类别分布统计，并与 Galaxy 流程集成实现自动化变异分析。
   
 - **[ANNOVAR](https://annovar.openbioinformatics.org/)** `Kai Wang Lab`
   
-  > A versatile variant annotation tool that integrates gene-based, region-based, and filter-based annotations from hundreds of databases including RefSeq, UCSC, dbSNP, 1000 Genomes, and custom datasets. Supports flexible custom database integration and table-based output formats. AI agents can execute ANNOVAR to annotate variants with multiple database sources, filter variants based on population frequency and predicted pathogenicity, generate tab-delimited reports for clinical review, and customize annotation workflows with disease-specific databases.
+  > 通用的变异注释工具，整合来自 RefSeq、UCSC、dbSNP、1000 Genomes 及自定义数据集等数百数据库的基因级、区域级与过滤型注释。支持灵活的自定义数据库集成与表格化输出格式。AI 智能体可使用 ANNOVAR 结合多源数据库进行变异注释，基于群体频率与预测致病性过滤变异，生成临床审核所需的制表报告，并使用疾病特异数据库定制注释流程。
 ### 转录组学和表达分析
 
 - **[DESeq2](https://bioconductor.org/packages/DESeq2/)** `Michael Love, Simon Anders, Wolfgang Huber`
 
-  > The most widely-used R/Bioconductor package for differential gene expression analysis from count data, implementing negative binomial generalized linear models with robust variance estimation and empirical Bayes shrinkage. Handles complex experimental designs with multiple factors and supports likelihood ratio tests for model comparisons. AI agents can execute DESeq2 to identify differentially expressed genes between conditions, automatically detect outliers, normalize count data accounting for library size and composition, generate publication-quality MA plots and volcano plots, and export results with adjusted p-values for downstream pathway analysis.
+  > 最广泛使用的 R/Bioconductor 包，用于从计数数据进行差异表达分析，采用负二项广义线性模型、稳健方差估计与经验贝叶斯收缩。支持包含多因子的复杂实验设计，并支持用于模型比较的似然比检验。AI 智能体可使用 DESeq2 识别条件间差异表达基因、自动检测离群值、在考虑文库大小与组成的情况下进行归一化，生成发表级 MA 图与火山图，并导出带调整后 p 值的结果用于下游通路分析。
 
 - **[edgeR](https://bioconductor.org/packages/edgeR/)** `Gordon Smyth Lab`
 
-  > A powerful R/Bioconductor package for differential expression analysis using empirical Bayes methods and generalized linear models, particularly effective for experiments with small sample sizes. Features quasi-likelihood F-tests and robust variance modeling for complex experimental designs. AI agents can use edgeR for differential expression analysis with limited replicates, perform multi-factor designs with interaction terms, conduct gene set testing with camera/roast methods, and integrate with limma-voom for RNA-seq data normalization and precision weighting.
+  > 强大的 R/Bioconductor 差异表达分析包，采用经验贝叶斯方法与广义线性模型，特别适用于小样本实验。包含准似然 F 检验与稳健方差建模以支持复杂实验设计。AI 智能体可使用 edgeR 在有限重复下进行差异表达分析，构建包含交互项的多因子设计，使用 camera/roast 进行基因集检验，并与 limma-voom 集成用于 RNA-seq 归一化与精度加权。
 
 - **[StringTie](https://ccb.jhu.edu/software/stringtie/)** `Johns Hopkins University Center for Computational Biology`
 
-  > A fast and efficient transcript assembler that reconstructs full-length transcripts from RNA-seq alignments, quantifies expression levels, and identifies novel isoforms and alternative splicing events. Uses network flow algorithms and optional reference-guided assembly for improved accuracy. AI agents can invoke StringTie to assemble transcripts de novo or with reference guidance, quantify gene and transcript-level expression simultaneously, detect novel splice junctions, merge assemblies across multiple samples, and generate count matrices compatible with DESeq2/edgeR.
+  > 快速高效的转录本组装器，可从 RNA-seq 比对结果重建全长转录本、定量表达并识别新异构体与可变剪接事件。采用网络流算法，并支持参考引导组装以提升准确性。AI 智能体可调用 StringTie 进行 de novo 或参考引导组装，同时定量基因与转录本表达，检测新剪接位点，合并多样本组装，并生成与 DESeq2/edgeR 兼容的计数矩阵。
 
 - **[Salmon](https://combine-lab.github.io/salmon/)** `Rob Patro Lab`
 
-  > An ultra-fast transcript quantification tool that estimates abundance from RNA-seq reads without alignment, using dual-phase parallel inference and lightweight mapping for 10-100x speed improvement over traditional methods. Produces accurate TPM and estimated counts with uncertainty quantification. AI agents can execute Salmon for rapid transcript-level quantification, bypass time-consuming alignment steps, automatically detect and correct for sequence-specific biases, generate bootstrap samples for uncertainty estimation, and produce count matrices ready for differential expression analysis in minutes rather than hours.
+  > 超高速转录本定量工具，无需比对即可从 RNA-seq 读段估计丰度，采用双阶段并行推断与轻量映射，相比传统方法提升 10-100 倍速度。输出精确的 TPM 与估计计数并提供不确定性量化。AI 智能体可执行 Salmon 进行快速转录本定量，绕过耗时比对步骤，自动检测并校正序列特异性偏差，生成用于不确定性估计的 bootstrap 样本，并在分钟级生成用于差异表达分析的计数矩阵。
 
 - **[HTSeq](https://htseq.readthedocs.io/)** `Simon Anders Lab`
 
-  > A Python framework for processing high-throughput sequencing data, most commonly used via htseq-count for generating gene-level read counts from aligned BAM files with flexible feature assignment rules. Handles paired-end data and supports multiple overlap resolution modes. AI agents can use HTSeq to count reads overlapping genomic features from BAM files, apply different counting modes (union, intersection-strict, intersection-nonempty) based on experimental needs, process large BAM files efficiently, and generate count tables for downstream differential expression analysis.
+  > 用于处理高通量测序数据的 Python 框架，最常用方式是通过 htseq-count 从比对后的 BAM 文件生成基因层面读数，并提供灵活的特征分配规则。支持双端数据与多种重叠处理模式。AI 智能体可使用 HTSeq 统计与基因组特征重叠的读段，根据实验需求选择计数模式（union、intersection-strict、intersection-nonempty），高效处理大型 BAM，并生成下游差异表达分析所需的计数表。
 
 - **[Scanpy](https://scanpy.readthedocs.io/)** `Theis Lab`
 
-  > A comprehensive Python toolkit for analyzing single-cell RNA-seq data, providing scalable implementations of preprocessing, clustering, trajectory inference, and visualization methods for datasets with millions of cells. Integrates with AnnData format and includes PAGA for topology inference. AI agents can execute Scanpy workflows to normalize and filter single-cell data, identify highly variable genes, perform dimensionality reduction (PCA, UMAP, t-SNE), cluster cells using Leiden/Louvain algorithms, infer developmental trajectories, identify marker genes, and visualize results with publication-ready plots.
+  > 用于单细胞 RNA-seq 分析的综合 Python 工具包，提供可扩展的预处理、聚类、轨迹推断与可视化方法，支持百万级细胞数据集。与 AnnData 格式集成，并包含 PAGA 拓扑推断。AI 智能体可执行 Scanpy 流程进行单细胞数据归一化与过滤、识别高变基因、降维（PCA、UMAP、t-SNE）、使用 Leiden/Louvain 聚类、推断发育轨迹、识别标记基因并生成发表级图形。
 
 - **[Seurat](https://satijalab.org/seurat/)** `Satija Lab`
 
-  > The most popular R toolkit for single-cell RNA-seq analysis, offering comprehensive workflows for QC, normalization, integration, clustering, and differential expression with over 100,000 citations. Version 5 introduces scalable on-disk analysis and improved multi-modal integration capabilities. AI agents can invoke Seurat to process 10X Genomics data, integrate multiple datasets using anchors or harmony, perform SCTransform normalization, identify cell types using reference-based annotation, analyze spatial transcriptomics with Visium, and generate interactive visualizations with customizable UMAP/t-SNE plots.
+  > 最流行的单细胞 RNA-seq 分析 R 工具包，提供从 QC、归一化、整合、聚类到差异表达的完整流程，并拥有 10 万+ 引用。第 5 版引入可扩展的磁盘级分析与更强的多模态整合能力。AI 智能体可调用 Seurat 处理 10X Genomics 数据，通过 anchors 或 harmony 整合多数据集，进行 SCTransform 归一化，使用参考注释识别细胞类型，使用 Visium 分析空间转录组，并生成可定制 UMAP/t-SNE 的交互式可视化。
 
 - **[Cell Ranger](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger)** `10X Genomics`
 
-  > The official analysis pipeline for processing 10X Genomics single-cell and spatial transcriptomics data, handling demultiplexing, barcode processing, alignment, UMI counting, and cell calling with optimized algorithms for 10X chemistry. Outputs include feature-barcode matrices and quality metrics. AI agents can execute Cell Ranger to process raw BCL files from 10X experiments, automatically detect cell barcodes and UMIs, align reads to reference genomes, generate filtered gene-barcode matrices, aggregate multiple samples, and produce web-based QC summary reports for immediate quality assessment.
+  > 10X Genomics 单细胞与空间转录组数据的官方分析流水线，针对 10X 化学体系进行了优化，完成拆分、条形码处理、比对、UMI 计数与细胞识别。输出包括特征-条形码矩阵与质量指标。AI 智能体可执行 Cell Ranger 处理 10X 实验的原始 BCL 文件，自动识别细胞条形码与 UMI，将读段比对到参考基因组，生成过滤后的基因-条形码矩阵，聚合多样本，并生成基于 Web 的 QC 汇总报告以进行快速质量评估。
 
 - **[scVI: Single-cell Variational Inference](https://scvi-tools.org/)** `Yosef Lab`
 
-  > A deep learning framework for probabilistic modeling of single-cell omics data using variational autoencoders, enabling batch correction, imputation, dimensionality reduction, and integration of multi-modal datasets (RNA, ATAC, protein). Includes models like scVI, scANVI for annotation transfer, and totalVI for multi-modal analysis. AI agents can leverage scVI to remove batch effects while preserving biological variation, impute dropout events, integrate datasets across technologies and species, perform probabilistic cell type annotation, and generate biologically meaningful low-dimensional embeddings for downstream analysis.
+  > 基于变分自编码器的单细胞组学概率建模深度学习框架，支持批次效应校正、缺失值填补、降维与多模态数据（RNA、ATAC、蛋白）的整合。包含用于注释迁移的 scVI、scANVI，以及用于多模态分析的 totalVI。AI 智能体可利用 scVI 在保留生物变异的同时去除批次效应，填补 dropout，跨技术与物种整合数据，进行概率型细胞类型注释，并生成具有生物学意义的低维嵌入用于下游分析。
 
 - **[scGPT](https://scgpt.readthedocs.io/)** `Cui Lab`
 
-  > A foundation model for single-cell biology that uses transformer architecture pre-trained on 33 million cells, enabling zero-shot cell type annotation, gene network inference, perturbation prediction, and multi-batch integration. Learns generalizable gene representations across diverse cell types and tissues. AI agents can invoke scGPT for transfer learning on new datasets, predict gene expression changes under perturbations, annotate rare cell types without reference data, infer gene regulatory relationships, and perform cross-species or cross-tissue analysis leveraging pre-trained biological knowledge.
+  > 单细胞生物学基础模型，采用 Transformer 架构在 3300 万细胞上预训练，可实现零样本细胞类型注释、基因网络推断、扰动预测与多批次整合。学习跨多样细胞类型与组织的通用基因表示。AI 智能体可调用 scGPT 进行新数据集迁移学习，预测扰动下的基因表达变化，在缺乏参考数据时注释稀有细胞类型，推断基因调控关系，并利用预训练生物知识进行跨物种或跨组织分析。
 
 - **[Squidpy](https://squidpy.readthedocs.io/)** `Theis Lab`
 
-  > A Python toolkit for spatial molecular data analysis that extends Scanpy with methods for spatial statistics, tissue structure analysis, ligand-receptor interaction inference, and image feature extraction. Supports multiple spatial technologies including Visium, Slide-seq, and imaging-based methods. AI agents can use Squidpy to compute spatial neighbor graphs, identify spatially variable genes, perform spatial autocorrelation analysis, extract morphological features from H&E images using deep learning, infer cell-cell communication through ligand-receptor databases, and visualize spatial patterns with tissue context.
+  > 用于空间分子数据分析的 Python 工具包，扩展了 Scanpy，包含空间统计、组织结构分析、配体-受体相互作用推断与图像特征提取方法。支持 Visium、Slide-seq 等多种空间技术及基于成像的方法。AI 智能体可使用 Squidpy 计算空间邻接图、识别空间变异基因、进行空间自相关分析、用深度学习从 H&E 图像提取形态学特征，通过配体-受体数据库推断细胞间通信，并结合组织上下文可视化空间模式。
 
 - **[Tangram](https://tangram-sc.readthedocs.io/)** `Regev Lab`
 
-  > A deep learning method for mapping single-cell or cell type signatures to spatial locations in tissues, enabling spatial deconvolution and cross-technology data integration. Uses neural network optimization to align gene expression profiles while preserving spatial coherence. AI agents can execute Tangram to map scRNA-seq data onto spatial transcriptomics slides, deconvolve cell type compositions at spatial locations, transfer annotations from single-cell atlases to spatial data, predict spatial locations of cell types not captured by spatial technology, and integrate multi-modal spatial datasets.
+  > 将单细胞或细胞类型特征映射到组织空间位置的深度学习方法，实现空间反卷积与跨技术数据整合。通过神经网络优化对齐基因表达谱，同时保持空间一致性。AI 智能体可执行 Tangram 将 scRNA-seq 数据映射到空间转录组切片，推断空间位置的细胞类型组成，将单细胞图谱注释迁移到空间数据，预测空间技术未捕获细胞类型的位置，并整合多模态空间数据集。
 
 - **[STUtility](https://ludvigla.github.io/STUtility_web_site/)** `Lundeberg Lab`
 
-  > An R package for analyzing and visualizing spatially resolved transcriptomics data, particularly Visium, with tools for tissue detection, image alignment, spatial feature identification, and integration with Seurat. Provides interactive visualization of tissue sections with gene expression overlays. AI agents can invoke STUtility to align tissue images with spot coordinates, automatically detect tissue regions, identify spatially variable genes using spatial autocorrelation, perform region-based differential expression, integrate spatial data with scRNA-seq references, and generate publication-quality spatial plots with anatomical context.
+  > 用于分析与可视化空间分辨转录组数据（尤其是 Visium）的 R 包，提供组织检测、图像对齐、空间特征识别与 Seurat 集成等工具。支持在组织切片上叠加基因表达的交互式可视化。AI 智能体可调用 STUtility 将组织图像与 spot 坐标对齐，自动检测组织区域，使用空间自相关识别空间变异基因，进行区域差异表达分析，将空间数据与 scRNA-seq 参考整合，并生成具有解剖学上下文的发表级空间图。
 
 - **[SPATA2](https://themilolab.github.io/SPATA2/)** `Kuppe Lab`
 
-  > An R framework for comprehensive spatial transcriptomics analysis with emphasis on trajectory inference, surface modeling, and interactive visualization of spatial patterns. Features advanced spatial statistics and dimensionality reduction tailored for tissue architecture. AI agents can use SPATA2 to infer spatial trajectories across tissue regions, model gene expression as continuous surfaces, identify spatial gradients and transition zones, perform spatial clustering with anatomical constraints, and create interactive 3D visualizations of gene expression landscapes in tissue context.
+  > 用于空间转录组综合分析的 R 框架，强调轨迹推断、表面建模与空间模式的交互式可视化。提供面向组织结构的高级空间统计与降维方法。AI 智能体可使用 SPATA2 推断跨组织区域的空间轨迹，将基因表达建模为连续表面，识别空间梯度与过渡区域，在解剖约束下进行空间聚类，并创建组织上下文中的交互式 3D 基因表达景观。
 
 - **[Giotto](https://giottosuite.readthedocs.io/)** `Yuan Lab`
 
-  > A comprehensive toolbox for spatial transcriptomics and multiplexed imaging data analysis in both R and Python, offering methods for spatial statistics, cell proximity analysis, ligand-receptor interaction modeling, and spatial enrichment. Supports over 10 spatial data types including Visium, Slide-seq, MERFISH, and seqFISH. AI agents can execute Giotto to create spatial expression maps, perform spatial co-expression network analysis, identify spatial domains using hidden Markov random fields, calculate spatial enrichment scores for cell type interactions, infer intercellular communication patterns, and integrate multi-resolution spatial datasets.
+  > 覆盖 R 与 Python 的空间转录组与多重成像数据分析工具箱，提供空间统计、细胞邻近分析、配体-受体相互作用建模与空间富集分析方法。支持包括 Visium、Slide-seq、MERFISH、seqFISH 在内的 10+ 空间数据类型。AI 智能体可执行 Giotto 创建空间表达图谱，进行空间共表达网络分析，使用隐马尔可夫随机场识别空间域，计算细胞类型相互作用的空间富集分数，推断细胞间通信模式，并整合多分辨率空间数据集。
 
 ### 表观基因组学和调控分析
 
 - **[MACS2: Model-based Analysis of ChIP-Seq](https://github.com/macs3-project/MACS)** `Tao Liu Lab`
 
-  > The most widely-used peak caller for ChIP-seq and ATAC-seq data, using dynamic Poisson distribution to model local biases and identify enriched regions with high sensitivity and specificity. Supports broad peak calling for histone marks and narrow peak calling for transcription factors. AI agents can invoke MACS2 to call peaks from treatment vs control BAM files, automatically estimate fragment size and background, detect broad domains for histone modifications, generate bedGraph and bigWig files for visualization, calculate fold enrichment and FDR values, and produce summit files for motif analysis.
+  > 最常用的 ChIP-seq 与 ATAC-seq 峰调用工具，使用动态泊松分布建模局部偏差，以高灵敏度和特异性识别富集区域。支持组蛋白修饰的宽峰调用与转录因子的窄峰调用。AI 智能体可调用 MACS2 从处理组与对照组 BAM 文件进行峰调用，自动估计片段长度与背景，检测组蛋白修饰的广泛域，生成用于可视化的 bedGraph 与 bigWig 文件，计算倍数富集与 FDR，并输出峰顶（summit）文件用于基序分析。
 
 - **[HOMER: Hypergeometric Optimization of Motif EnRichment](http://homer.ucsd.edu/homer/)** `Christopher Benner`
 
-  > A comprehensive suite for motif discovery, ChIP-seq analysis, and genomic annotation that identifies enriched DNA sequence motifs in regulatory regions using optimized scoring algorithms. Includes tools for peak annotation, differential binding analysis, and histone modification analysis. AI agents can execute HOMER to discover de novo motifs in peak regions, annotate peaks with nearest genes and genomic features, find known motif instances across the genome, perform differential peak analysis between conditions, create tag directories for visualization, and generate comprehensive HTML reports with motif logos and enrichment statistics.
+  > 用于基序发现、ChIP-seq 分析与基因组注释的综合套件，使用优化评分算法识别调控区域中富集的 DNA 基序。包含峰注释、差异结合分析与组蛋白修饰分析工具。AI 智能体可执行 HOMER 在峰区发现 de novo 基序，将峰注释到最近基因和基因组特征，在全基因组定位已知基序，进行条件间差异峰分析，创建用于可视化的 tag 目录，并生成包含基序 logo 与富集统计的 HTML 报告。
 
 - **[MEME Suite](https://meme-suite.org/)** `Timothy Bailey Lab`
 
-  > A collection of tools for motif discovery and analysis, including MEME for de novo motif finding, FIMO for scanning sequences with known motifs, and TOMTOM for motif comparison. Features advanced algorithms for gapped motifs and position-specific scoring matrices. AI agents can use MEME to discover ungapped or gapped motifs in DNA/protein sequences, scan genomes for motif occurrences with FIMO, compare discovered motifs against databases with TOMTOM, analyze motif spacing and orientation, perform motif enrichment analysis, and generate publication-quality sequence logos with statistical significance metrics.
+  > 基序发现与分析工具集合，包括用于 de novo 基序发现的 MEME、用于扫描已知基序的 FIMO，以及用于基序比较的 TOMTOM。支持含间隙基序与位置特异评分矩阵的高级算法。AI 智能体可使用 MEME 在 DNA/蛋白序列中发现无间隙或有间隙基序，使用 FIMO 扫描基因组中的基序出现位置，通过 TOMTOM 与数据库比较发现的基序，分析基序间距与方向，进行基序富集分析，并生成带统计显著性指标的发表级序列 logo。
 
 - **[Bismark](https://www.bioinformatics.babraham.ac.uk/projects/bismark/)** `Babraham Bioinformatics`
 
-  > A specialized aligner for bisulfite-treated sequencing data that maps reads and extracts DNA methylation information, handling both directional and non-directional libraries with support for paired-end reads. Performs simultaneous alignment and methylation calling with context-specific resolution (CpG, CHG, CHH). AI agents can invoke Bismark to align bisulfite-converted reads to reference genomes, extract methylation calls at single-base resolution, generate methylation reports with coverage statistics, perform deduplication for WGBS data, create bedGraph files for genome browser visualization, and quantify global methylation patterns across genomic contexts.
+  > 面向亚硫酸氢盐处理测序数据的专用比对器，可完成读段比对与 DNA 甲基化信息提取，支持方向性与非方向性文库，并支持双端读段。可在不同上下文（CpG、CHG、CHH）下进行比对与甲基化调用。AI 智能体可调用 Bismark 将亚硫酸氢盐转换读段比对到参考基因组，提取单碱基分辨率的甲基化调用，生成带覆盖统计的甲基化报告，对 WGBS 数据去重，生成用于基因组浏览器可视化的 bedGraph 文件，并量化不同基因组上下文的全局甲基化模式。
 
 - **[deepTools](https://deeptools.readthedocs.io/)** `Ramírez Lab`
 
-  > A comprehensive toolkit for exploring and visualizing deep-sequencing data, providing utilities for BAM file processing, normalization, heatmap generation, and quality control across ChIP-seq, ATAC-seq, and RNA-seq experiments. Features include multiBamSummary, plotHeatmap, and computeMatrix for creating publication-ready figures. AI agents can use deepTools to generate correlation plots between samples, create signal heatmaps around genomic features (TSS, gene bodies, peaks), compute coverage tracks with various normalization methods (RPKM, CPM, RPGC), assess fragment size distributions, perform GC-bias correction, and visualize genome-wide signal patterns with customizable color schemes.
+  > 用于深度测序数据探索与可视化的综合工具集，提供 BAM 文件处理、归一化、热图生成与质量控制，覆盖 ChIP-seq、ATAC-seq 与 RNA-seq 实验。包含 multiBamSummary、plotHeatmap、computeMatrix 等组件，可生成发表级图形。AI 智能体可使用 deepTools 生成样本间相关性图、在基因组特征（TSS、基因体、峰）周围绘制信号热图、计算不同归一化方法（RPKM、CPM、RPGC）的覆盖轨道、评估片段长度分布、进行 GC 偏差校正，并用可定制配色可视化全基因组信号模式。
 
 - **[ATACseqQC](https://bioconductor.org/packages/ATACseqQC/)** `Jianhong Ou, Julie Zhu`
 
-  > An R/Bioconductor package specifically designed for quality control and analysis of ATAC-seq data, assessing fragment size distribution, transcription start site enrichment, nucleosome positioning, and library complexity. Provides diagnostic plots for troubleshooting experimental issues. AI agents can execute ATACseqQC to evaluate ATAC-seq data quality by checking fragment size periodicity (nucleosome ladder), calculate TSS enrichment scores, visualize insert size distributions, assess promoter/enhancer enrichment, detect mitochondrial contamination, identify low-quality libraries requiring re-sequencing, and generate comprehensive QC reports with standardized metrics.
+  > 面向 ATAC-seq 数据质量控制与分析的 R/Bioconductor 包，评估片段长度分布、转录起始位点富集、核小体定位与文库复杂度，并提供诊断图用于排查实验问题。AI 智能体可执行 ATACseqQC 通过检查片段长度周期性（核小体梯度）评估质量，计算 TSS 富集分数，展示插入片段长度分布，评估启动子/增强子富集，检测线粒体污染，识别需要重测的低质量文库，并生成包含标准化指标的综合 QC 报告。
 
 - **[ChromHMM](http://compbio.mit.edu/ChromHMM/)** `Ernst & Kellis Lab`
 
-  > A hidden Markov model-based method for chromatin state discovery and characterization from histone modification ChIP-seq data, learning and annotating combinatorial chromatin states (promoters, enhancers, insulators, heterochromatin) genome-wide. Produces browser-ready tracks and emission/transition parameters. AI agents can invoke ChromHMM to learn chromatin state models from multiple histone marks, automatically segment genomes into functional states, compare chromatin landscapes across cell types or conditions, identify state transitions during differentiation, annotate enhancers and promoters based on chromatin signatures, and generate genome browser tracks showing predicted regulatory elements with biological interpretations.
+  > 基于隐马尔可夫模型的染色质状态发现与表征方法，利用组蛋白修饰 ChIP-seq 数据学习并注释全基因组的组合染色质状态（启动子、增强子、绝缘子、异染色质等）。输出可直接用于浏览器的轨道以及发射/转移参数。AI 智能体可调用 ChromHMM 从多种组蛋白标记学习状态模型，自动将基因组分割为功能状态，比较不同细胞类型或条件下的染色质景观，识别分化过程中的状态转换，根据染色质特征注释增强子/启动子，并生成带生物学解释的预测调控元件轨道。
 
 ### 多组学整合
 
 - **[MOFA+: Multi-Omics Factor Analysis](https://biofam.github.io/MOFA2/)** `Ricard Argelaguet, Britta Velten`
 
-  > A statistical framework for unsupervised integration of multi-omics data using group factor analysis, identifying latent factors that explain coordinated variation across transcriptomics, epigenomics, proteomics, and other molecular layers. Handles missing data and supports multi-group comparisons. AI agents can execute MOFA+ to integrate multi-modal single-cell data, identify shared and unique sources of variation across omics layers, perform variance decomposition to quantify each factor's contribution, cluster samples based on latent factors, impute missing values across incomplete datasets, and visualize coordinated molecular changes driving biological processes.
+  > 基于组因子分析的多组学无监督整合统计框架，识别跨转录组、表观基因组、蛋白组等分子层的协同变化所对应的潜在因子。支持缺失数据并可进行多组比较。AI 智能体可执行 MOFA+ 整合多模态单细胞数据，识别组学层之间共享与特异的变异来源，进行方差分解量化各因子贡献，基于潜在因子对样本聚类，跨不完整数据集填补缺失值，并可视化驱动生物过程的协同分子变化。
 
 - **[Seurat V5](https://satijalab.org/seurat/)** `Satija Lab`
 
-  > The latest version of Seurat featuring scalable multi-modal integration through bridge integration and sketch-based analysis for million-cell datasets, supporting simultaneous analysis of RNA, ATAC, protein, and spatial data. Introduces on-disk data storage and streamlined integration workflows. AI agents can invoke Seurat V5 to integrate datasets across technologies using bridge integration anchors, perform sketch-based analysis on very large datasets (>1M cells), analyze CITE-seq data with weighted nearest neighbor (WNN) graphs, map query datasets to reference atlases, integrate spatial and single-cell data, and leverage BPCells for memory-efficient processing of massive datasets.
+  > Seurat 的最新版本，提供可扩展的多模态整合能力，支持通过 bridge integration 与 sketch-based 分析处理百万级细胞数据，并可同时分析 RNA、ATAC、蛋白与空间数据。引入磁盘级数据存储与更精简的整合流程。AI 智能体可调用 Seurat V5 使用 bridge integration anchors 跨技术整合数据集，在超大数据集（>1M 细胞）上进行 sketch 分析，使用加权最近邻（WNN）图分析 CITE-seq 数据，将查询数据集映射到参考图谱，整合空间与单细胞数据，并利用 BPCells 进行内存高效处理。
 
 - **[MultiVI](https://docs.scvi-tools.org/en/stable/user_guide/models/multivi.html)** `Gayoso, Steier et al.`
 
-  > A deep generative model within scvi-tools for joint analysis of single-cell RNA-seq and ATAC-seq data, learning a unified latent representation that captures both gene expression and chromatin accessibility while accounting for technical noise and batch effects. Uses amortized inference for scalability. AI agents can use MultiVI to integrate paired or unpaired scRNA-seq and scATAC-seq datasets, infer joint cell embeddings capturing both modalities, impute missing modalities (predict gene expression from ATAC or vice versa), remove batch effects while preserving biological variation, perform differential accessibility and expression analysis jointly, and transfer cell type annotations across modalities.
+  > scvi-tools 中用于单细胞 RNA-seq 与 ATAC-seq 联合分析的深度生成模型，学习统一的潜在表示以同时捕获基因表达与染色质可及性，并考虑技术噪声与批次效应。采用摊还推断以提升可扩展性。AI 智能体可使用 MultiVI 整合配对或不配对的 scRNA-seq 与 scATAC-seq 数据集，推断同时包含两种模态的细胞嵌入，填补缺失模态（从 ATAC 预测基因表达或反之），在保留生物变异的同时去除批次效应，联合进行可及性与表达差异分析，并跨模态迁移细胞类型注释。
 
 - **[totalVI](https://docs.scvi-tools.org/en/stable/user_guide/models/totalvi.html)** `Gayoso, Steier et al.`
 
-  > A probabilistic model for joint analysis of CITE-seq data (RNA + surface proteins) using variational autoencoders, modeling the technical characteristics of both modalities including protein background and RNA dropout events. Enables denoised protein quantification and integrated clustering. AI agents can execute totalVI to jointly analyze gene expression and protein abundance from CITE-seq experiments, remove protein background noise and ambient RNA contamination, generate denoised protein expression matrices, perform integrated clustering using both modalities, conduct differential expression analysis for genes and proteins simultaneously, and impute missing protein measurements in datasets lacking ADT data.
+  > 用于 CITE-seq（RNA+表面蛋白）联合分析的概率模型，基于变分自编码器建模两种模态的技术特性，包括蛋白背景与 RNA dropout。可实现去噪的蛋白定量与整合聚类。AI 智能体可执行 totalVI 联合分析 CITE-seq 的基因表达与蛋白丰度，去除蛋白背景噪声与环境 RNA 污染，生成去噪蛋白表达矩阵，使用两种模态进行整合聚类，同时对基因与蛋白进行差异分析，并在缺少 ADT 数据的情况下填补蛋白测量值。
 
 - **[LIGER: Linked Inference of Genomic Experimental Relationships](https://github.com/welch-lab/liger)** `Joshua Welch Lab`
 
-  > An integrative non-negative matrix factorization (iNMF) framework for identifying shared and dataset-specific features across multi-modal single-cell datasets, particularly effective for integrating scRNA-seq, scATAC-seq, spatial transcriptomics, and DNA methylation data. Preserves biological variation while removing batch effects. AI agents can invoke LIGER to integrate diverse single-cell modalities using iNMF, identify shared metagene programs and dataset-specific factors, align datasets from different technologies or species, perform multi-dataset trajectory inference, integrate spatial and non-spatial data, quantify gene loading contributions across factors, and visualize integrated data with joint UMAP embeddings.
+  > 基于整合型非负矩阵分解（iNMF）的框架，用于在多模态单细胞数据集中识别共享与数据集特异特征，特别适合整合 scRNA-seq、scATAC-seq、空间转录组与 DNA 甲基化数据。在去除批次效应的同时保留生物变异。AI 智能体可调用 LIGER 使用 iNMF 整合多种单细胞模态，识别共享的元基因程序与数据集特异因子，对不同技术或物种的数据集进行对齐，进行多数据集轨迹推断，整合空间与非空间数据，量化基因载荷在各因子中的贡献，并使用联合 UMAP 嵌入可视化整合结果。
 
 - **[Scissor](https://github.com/sunduanchen/Scissor)** `Duan Chen Sun`
 
-  > A method for phenotype-associated single-cell subpopulation identification by correlating bulk tissue phenotypes (survival, drug response, clinical outcomes) with single-cell expression profiles using regularized regression. Bridges bulk genomics and single-cell data to identify disease-relevant cell populations. AI agents can execute Scissor to identify cell subpopulations associated with patient survival outcomes, link single-cell states to bulk tumor phenotypes, discover therapy-resistant cell populations from treatment response data, correlate cellular states with continuous clinical variables, prioritize cell types for therapeutic targeting based on phenotypic associations, and integrate TCGA bulk data with single-cell atlases for clinical insights.
+  > 通过正则化回归将 bulk 组织表型（生存、药物反应、临床结局）与单细胞表达谱相关联，从而识别与表型关联的单细胞亚群的方法。连接 bulk 组学与单细胞数据以识别疾病相关细胞群。AI 智能体可执行 Scissor 识别与患者生存相关的细胞亚群，将单细胞状态与 bulk 肿瘤表型关联，从治疗反应数据中发现耐受治疗的细胞群，关联细胞状态与连续临床变量，基于表型关联为治疗靶向优先排序细胞类型，并将 TCGA bulk 数据与单细胞图谱整合以获得临床洞见。
 
 ### 特定技术工具
 
 - **[OpenMS](https://www.openms.de/)** `OpenMS Team`
 
-  > A comprehensive open-source framework for mass spectrometry data analysis, providing tools for peak picking, feature detection, peptide identification, protein quantification, and metabolomics workflows. Supports multiple MS platforms and formats (mzML, mzXML) with TOPP tools for command-line processing. AI agents can execute OpenMS pipelines to process raw MS/MS data, perform label-free quantification, identify post-translational modifications, conduct targeted proteomics analysis with SRM/MRM data, integrate with database search engines (Mascot, X!Tandem), and generate standardized outputs for downstream statistical analysis.
+  > 面向质谱数据分析的综合开源框架，提供峰识别、特征检测、肽段鉴定、蛋白定量与代谢组学工作流工具。支持多种 MS 平台与格式（mzML、mzXML），并通过 TOPP 工具进行命令行处理。AI 智能体可执行 OpenMS 流水线处理原始 MS/MS 数据，进行无标记定量，识别翻译后修饰，基于 SRM/MRM 数据开展靶向蛋白组学分析，与数据库搜索引擎（Mascot、X!Tandem）集成，并生成标准化输出用于下游统计分析。
 
 - **[MaxQuant](https://www.maxquant.org/)** `Jürgen Cox, Max Planck Institute`
 
-  > A widely-used quantitative proteomics software platform for analyzing large-scale MS data with Andromeda search engine, featuring label-free quantification (LFQ), isobaric labeling (TMT/iTRAQ), and match-between-runs for improved peptide identification. Includes Perseus for statistical analysis. AI agents can invoke MaxQuant to process Thermo, Bruker, and Sciex raw files, perform peptide identification with FDR control, quantify protein abundance across samples using LFQ or TMT, identify protein groups and isoforms, perform SILAC-based quantification, and export results to Perseus for differential expression analysis and pathway enrichment.
+  > 常用的定量蛋白组学平台，基于 Andromeda 搜索引擎分析大规模 MS 数据，支持无标记定量（LFQ）、同位素标签（TMT/iTRAQ）与 match-between-runs 以提升肽段鉴定。包含 Perseus 用于统计分析。AI 智能体可调用 MaxQuant 处理 Thermo、Bruker 与 Sciex 原始文件，在 FDR 控制下进行肽段鉴定，使用 LFQ 或 TMT 进行跨样本蛋白定量，识别蛋白组与同工型，进行 SILAC 定量，并将结果导出至 Perseus 进行差异分析与通路富集。
 
 - **[ProteoWizard](http://proteowizard.sourceforge.net/)** `Spielberg Family Center for Applied Proteomics`
 
-  > A suite of open-source tools for mass spectrometry data conversion and analysis, with msConvert for converting vendor-specific formats to open standards (mzML, mzXML) and tools for data filtering, peak picking, and quality control. Supports 30+ instrument vendors. AI agents can use ProteoWizard to convert proprietary MS formats (RAW, WIFF, .d) to open standards, apply spectral filters and centroiding during conversion, extract specific scan ranges or MS levels, perform batch conversion of large datasets, prepare data for downstream analysis in OpenMS/MaxQuant, and ensure data interoperability across proteomics platforms.
+  > 质谱数据转换与分析的开源工具套件，包含 msConvert 用于将厂商专有格式转换为开放标准（mzML、mzXML），以及用于数据过滤、峰提取与质控的工具。支持 30+ 仪器厂商。AI 智能体可使用 ProteoWizard 将 RAW、WIFF、.d 等专有格式转换为开放标准，在转换过程中应用谱图过滤与质心化，提取特定扫描范围或 MS 层级，批量转换大型数据集，为 OpenMS/MaxQuant 的下游分析准备数据，并确保跨蛋白组学平台的数据互操作性。
 
 - **[QIIME2: Quantitative Insights Into Microbial Ecology](https://qiime2.org/)** `Caporaso Lab`
 
-  > A comprehensive microbiome analysis platform for processing amplicon sequencing data (16S/18S/ITS), featuring plugin-based architecture for quality control, denoising with DADA2/Deblur, taxonomic classification, diversity analysis, and visualization. Supports reproducible workflows with artifact provenance tracking. AI agents can execute QIIME2 pipelines to denoise amplicon sequences into ASVs, assign taxonomy using trained classifiers (SILVA, Greengenes2), calculate alpha/beta diversity metrics, perform differential abundance testing with ANCOM-BC, generate interactive visualizations, conduct compositional data analysis, and integrate metadata for statistical testing of microbiome-phenotype associations.
+  > 综合性的微生物组分析平台，用于处理扩增子测序数据（16S/18S/ITS），采用插件化架构，提供质控、DADA2/Deblur 去噪、分类学注释、多样性分析与可视化。支持带有产物溯源跟踪的可复现工作流。AI 智能体可执行 QIIME2 流水线将扩增子序列去噪为 ASV，使用训练好的分类器（SILVA、Greengenes2）进行物种注释，计算 α/β 多样性指标，使用 ANCOM-BC 进行差异丰度分析，生成交互式可视化，进行组分数据分析，并整合元数据用于微生物组-表型关联的统计检验。
 
 - **[MetaPhlAn: Metagenomic Phylogenetic Analysis](https://github.com/biobakery/MetaPhlAn)** `Huttenhower Lab`
 
-  > A computational tool for profiling microbial community composition from metagenomic shotgun sequencing using clade-specific marker genes, providing species-level taxonomic abundance without requiring assembly. Includes 1M+ markers from 100,000+ genomes in the latest mpa_vJan21 database. AI agents can invoke MetaPhlAn to rapidly profile taxonomic composition from WGS metagenomes, quantify relative abundances of bacteria, archaea, viruses, and eukaryotes, detect strain-level variation, merge profiles across samples for comparative analysis, integrate with HUMAnN for functional profiling, and generate abundance tables ready for statistical analysis.
+  > 通过类群特异标记基因从宏基因组 shotgun 测序数据中剖析微生物群落组成的计算工具，无需组装即可提供物种层级丰度。最新 mpa_vJan21 数据库包含来自 100,000+ 基因组的 100 万+ 标记基因。AI 智能体可调用 MetaPhlAn 快速获得 WGS 宏基因组的分类组成，定量细菌、古菌、病毒与真核微生物的相对丰度，检测菌株层级变异，合并多样本谱系用于比较分析，与 HUMAnN 集成进行功能剖析，并生成用于统计分析的丰度表。
 
 - **[Kraken2](https://github.com/DerrickWood/kraken2)** `Derrick Wood & Steven Salzberg`
 
-  > An ultrafast taxonomic classifier for metagenomic sequences using exact k-mer matches against a reference database, achieving classification speeds >100 times faster than previous methods while maintaining high accuracy. Supports custom database construction from RefSeq/GenBank. AI agents can execute Kraken2 to classify millions of reads in minutes, build custom databases for specific environments or pathogens, detect contamination in sequencing samples, identify microbes in clinical samples for pathogen detection, quantify taxonomic abundance with Bracken, and filter host-derived reads from metagenomic datasets.
+  > 使用与参考数据库的精确 k-mer 匹配对宏基因组序列进行分类的超高速分类器，在保持高准确性的同时比以往方法快 100 倍以上。支持基于 RefSeq/GenBank 构建自定义数据库。AI 智能体可执行 Kraken2 在分钟内分类数百万读段，为特定环境或病原体构建定制数据库，检测测序样本污染，在临床样本中识别病原体，结合 Bracken 量化分类丰度，并从宏基因组数据中过滤宿主来源读段。
 
 - **[HUMAnN: HMP Unified Metabolic Analysis Network](https://huttenhower.sph.harvard.edu/humann/)** `Huttenhower Lab`
 
-  > A pipeline for functional profiling of microbial communities from metagenomic sequencing, quantifying gene families, pathways, and metabolic potential using UniRef and MetaCyc databases. Integrates with MetaPhlAn for species-specific functional profiling. AI agents can invoke HUMAnN to profile metabolic pathways and gene family abundances, stratify functional contributions by organism, identify differentially abundant pathways between conditions, map to KEGG/MetaCyc/GO databases, normalize for sequencing depth and gene length, and generate pathway abundance tables for multi-omics integration.
+  > 用于宏基因组测序微生物群落功能剖析的流程，基于 UniRef 与 MetaCyc 数据库定量基因家族、通路与代谢潜力，并与 MetaPhlAn 集成实现物种特异的功能分析。AI 智能体可调用 HUMAnN 分析代谢通路与基因家族丰度，按物种分层功能贡献，识别条件间差异通路，映射至 KEGG/MetaCyc/GO 数据库，按测序深度与基因长度进行归一化，并生成用于多组学整合的通路丰度表。
 
 - **[NanoPlot](https://github.com/wdecoster/NanoPlot)** `Wouter De Coster`
 
-  > A visualization tool for quality control of long-read sequencing data from Oxford Nanopore and PacBio, generating comprehensive plots of read length distributions, quality scores, and yield statistics. Processes FASTQ, BAM, and sequencing summary files. AI agents can execute NanoPlot to assess long-read sequencing run quality, visualize read length N50 and distribution histograms, monitor quality scores over time during sequencing, identify failed pores or channels, compare multiple runs or barcodes, and generate publication-quality QC reports for evaluating library preparation and sequencing performance.
+  > 用于 Oxford Nanopore 与 PacBio 长读长测序数据质控的可视化工具，可生成读长分布、质量分数与产量统计等综合图表。支持 FASTQ、BAM 与测序汇总文件。AI 智能体可执行 NanoPlot 评估长读长测序运行质量，展示读长 N50 与分布直方图，监测测序过程中质量变化，识别失效孔/通道，比较多次运行或条形码，并生成发表级 QC 报告以评估建库与测序性能。
 
 - **[Medaka](https://github.com/nanoporetech/medaka)** `Oxford Nanopore Technologies`
 
-  > A neural network-based consensus tool for polishing draft genome assemblies from Oxford Nanopore reads, correcting systematic errors to improve base-level accuracy. Uses recurrent neural networks trained on specific basecaller versions and flowcell types. AI agents can invoke Medaka to polish draft assemblies after Flye/Canu, improve consensus accuracy to >99.9% for bacterial genomes, call variants from long-read alignments, select appropriate models based on basecaller version (Guppy/Dorado), perform iterative polishing rounds, and prepare assemblies for downstream annotation or comparative genomics.
+  > 基于神经网络的共识抛光工具，用于纠正 Oxford Nanopore 读段组装中的系统性错误，提高碱基级准确度。使用针对特定 basecaller 版本与 flowcell 类型训练的循环神经网络。AI 智能体可在 Flye/Canu 之后调用 Medaka 抛光草图组装，将细菌基因组共识准确度提升至 >99.9%，从长读段比对中进行变异检测，按 basecaller 版本（Guppy/Dorado）选择模型，进行迭代抛光，并为下游注释或比较基因组学准备组装结果。
 
 - **[Racon](https://github.com/lbcb-sci/racon)** `Vaser et al.`
 
-  > A rapid consensus module for polishing genome assemblies using long reads, employing partial order alignment (POA) graphs to correct errors in draft assemblies from noisy long-read data. Complements Medaka with faster but less accurate correction. AI agents can execute Racon for initial rapid polishing of draft assemblies, perform multiple polishing iterations to improve accuracy, integrate with minimap2 for alignment-based polishing, process large eukaryotic genomes efficiently, combine with Medaka for hybrid polishing strategies, and prepare assemblies for downstream variant calling or structural analysis.
+  > 使用长读段进行基因组组装抛光的快速共识模块，采用部分序列排列（POA）图纠正噪声长读段导致的草图组装错误。速度快但精度略低，可与 Medaka 互补。AI 智能体可执行 Racon 进行初步快速抛光，进行多轮迭代提升准确度，与 minimap2 结合进行基于比对的抛光，高效处理大型真核基因组，并与 Medaka 组合形成混合抛光策略，为下游变异检测或结构分析准备组装结果。
 
 - **[Clair3](https://github.com/HKU-BAL/Clair3)** `Luo et al.`
 
-  > A deep learning-based small variant caller for long-read sequencing (ONT, PacBio HiFi) using pileup and full-alignment networks to achieve high precision and recall for SNPs and indels. Supports germline and somatic variant calling with model selection based on sequencing platform. AI agents can invoke Clair3 to call SNPs and indels from long-read BAM files, automatically select platform-specific models (ONT R9/R10, PacBio HiFi), perform trio-based variant calling with parent genotypes, call somatic mutations in tumor samples, generate high-quality VCF files with confidence scores, and integrate with short-read data for hybrid variant calling strategies.
+  > 面向长读长测序（ONT、PacBio HiFi）的小变异检测深度学习工具，结合 pileup 与全比对网络以实现 SNP 与 indel 的高精度与高召回。支持胚系与体细胞变异调用，并可根据测序平台选择模型。AI 智能体可调用 Clair3 从长读段 BAM 文件中检测 SNP/indel，自动选择平台特异模型（ONT R9/R10、PacBio HiFi），进行三联体变异检测（含父母基因型），在肿瘤样本中调用体细胞突变，生成带置信度评分的高质量 VCF，并与短读段数据结合形成混合变异检测策略。
 
 - **[miRDeep2](https://github.com/rajewsky-lab/mirdeep2)** `Friedländer Lab`
 
-  > A probabilistic algorithm for discovering novel microRNAs from small RNA sequencing data by analyzing read depth patterns and secondary structure compatibility with Dicer processing. Quantifies known and novel miRNA expression across samples. AI agents can execute miRDeep2 to identify novel miRNAs from small RNA-seq data, quantify expression of known miRNAs from miRBase, predict precursor structures and mature sequences, score candidates based on Dicer processing signatures, filter false positives using probabilistic models, and generate lists of high-confidence novel miRNAs for experimental validation.
+  > 基于概率模型的算法，通过分析读段深度模式与 Dicer 处理的二级结构一致性，从小 RNA 测序数据中发现新 microRNA。可在样本间定量已知与新 miRNA 的表达。AI 智能体可执行 miRDeep2 从小 RNA-seq 数据识别新 miRNA，定量 miRBase 中已知 miRNA 的表达，预测前体结构与成熟序列，基于 Dicer 处理特征对候选进行打分，使用概率模型过滤假阳性，并生成高置信度新 miRNA 列表以供实验验证。
 
 - **[sRNAbench](https://bioinfo2.ugr.es/srnatoolbox/srnabench/)** `University of Granada`
 
-  > A comprehensive web-based and standalone tool for small RNA-seq analysis, providing read processing, annotation against multiple databases (miRBase, piRNABank, tRNAs), differential expression analysis, and isomiR detection. Supports multiple species and custom reference libraries. AI agents can invoke sRNAbench to process and map small RNA reads, annotate different RNA biotypes (miRNA, piRNA, tRNA fragments, snoRNA), identify isomiRs and RNA modifications, perform differential expression analysis between conditions, predict novel miRNAs, and generate comprehensive reports with expression profiles across RNA categories.
+  > 面向小 RNA-seq 分析的综合在线与独立工具，提供读段处理、与多数据库（miRBase、piRNABank、tRNAs）比对注释、差异表达分析与 isomiR 检测。支持多物种与自定义参考库。AI 智能体可调用 sRNAbench 处理与比对小 RNA 读段，注释不同 RNA 生物类型（miRNA、piRNA、tRNA 片段、snoRNA），识别 isomiR 与 RNA 修饰，进行条件间差异表达分析，预测新 miRNA，并生成跨 RNA 类别的表达谱综合报告。
 
 - **[rMATS: replicate Multivariate Analysis of Transcript Splicing](http://rnaseq-mats.sourceforge.net/)** `Manabu Shen Lab`
 
-  > A computational tool for detecting differential alternative splicing from RNA-seq data, identifying and quantifying five major splicing event types (SE, MXE, A5SS, A3SS, RI) with statistical significance testing across biological replicates. Handles both paired and unpaired sample comparisons. AI agents can execute rMATS to detect alternative splicing events from STAR-aligned BAM files, quantify inclusion levels (PSI values) for each event type, perform statistical testing for differential splicing between conditions, filter events by coverage and FDR thresholds, visualize splicing patterns with sashimi plots, and identify splicing changes associated with disease or developmental transitions.
+  > 用于从 RNA-seq 数据中检测差异可变剪接的计算工具，识别并量化五类主要剪接事件（SE、MXE、A5SS、A3SS、RI），并在生物重复间进行显著性检验。支持成对与非成对样本比较。AI 智能体可执行 rMATS 从 STAR 比对的 BAM 中检测可变剪接事件，量化每种事件的包含水平（PSI），进行条件间差异剪接统计检验，按覆盖度与 FDR 阈值过滤事件，通过 sashimi 图可视化剪接模式，并识别与疾病或发育转变相关的剪接变化。
 
 - **[SUPPA: Super-fast Pipeline for Alternative Splicing](https://github.com/comprna/SUPPA)** `Eduardo Eyras Lab`
 
-  > A lightweight tool for alternative splicing analysis from transcript quantification (Salmon, Kallisto), calculating PSI values and detecting differential splicing across conditions without requiring alignment files. Supports local and transcript-level splicing analysis. AI agents can invoke SUPPA to generate splicing event libraries from GTF annotations, calculate PSI values from transcript TPM estimates, perform fast differential splicing analysis across hundreds of samples, cluster samples by splicing profiles, identify splicing outliers, and analyze both local events and global transcript usage changes.
+  > 从转录本定量（Salmon、Kallisto）进行可变剪接分析的轻量级工具，无需比对文件即可计算 PSI 并检测条件间差异剪接。支持局部事件与转录本层级分析。AI 智能体可调用 SUPPA 基于 GTF 注释生成剪接事件库，从转录本 TPM 估计计算 PSI，在数百样本上进行快速差异剪接分析，按剪接特征聚类样本，识别剪接异常值，并同时分析局部事件与全局转录本使用变化。
 
 - **[LeafCutter](https://davidaknowles.github.io/leafcutter/)** `David Knowles & Jonathan Pritchard`
 
-  > An annotation-free method for detecting and quantifying intron excision events from RNA-seq data, discovering novel and complex splicing patterns by clustering introns sharing splice sites. Performs differential splicing analysis with linear mixed models. AI agents can execute LeafCutter to discover intron clusters from junction reads without GTF annotation, quantify intron excision ratios across samples, detect differential intron usage between conditions, identify cryptic splicing events and novel exons, perform QTL mapping for splicing variation (sQTL), and visualize complex splicing patterns with leafviz browser.
+  > 一种无注释的 RNA-seq 内含子切除事件检测与定量方法，通过聚类共享剪接位点的内含子发现新的复杂剪接模式，并使用线性混合模型进行差异剪接分析。AI 智能体可执行 LeafCutter 在无需 GTF 注释的情况下从剪接连接读段中发现内含子簇，量化样本间的内含子切除比例，检测条件间差异内含子使用，识别隐匿剪接事件与新外显子，进行剪接变异的 QTL 映射（sQTL），并通过 leafviz 浏览器可视化复杂剪接模式。
 
 ### AI/ML基础模型
 
 - **[AlphaFold](https://alphafold.ebi.ac.uk/)** `DeepMind / Google`
 
-  > A revolutionary deep learning system for protein structure prediction that achieved near-experimental accuracy using transformer architecture and evolutionary information from multiple sequence alignments. AlphaFold2 database contains 200M+ predicted structures covering most known proteins. AI agents can invoke AlphaFold to predict 3D structures from amino acid sequences, access pre-computed structures from the database, estimate prediction confidence with pLDDT scores, identify intrinsically disordered regions, model protein complexes using AlphaFold-Multimer, and integrate predicted structures into drug discovery or protein engineering workflows.
+  > 革命性的蛋白结构预测深度学习系统，利用 Transformer 架构与多序列比对中的进化信息，实现接近实验水平的准确度。AlphaFold2 数据库包含 2 亿+ 预测结构，覆盖大多数已知蛋白。AI 智能体可调用 AlphaFold 从氨基酸序列预测 3D 结构，访问数据库中的预计算结构，使用 pLDDT 评分评估置信度，识别本征无序区域，使用 AlphaFold-Multimer 建模蛋白复合体，并将预测结构集成到药物发现或蛋白工程流程中。
 
 - **[ESMFold](https://esmatlas.com/)** `Meta AI`
 
-  > A language model-based protein structure prediction system trained on 250M+ protein sequences without requiring MSAs, enabling 60x faster prediction than AlphaFold while maintaining competitive accuracy. Uses ESM-2 protein language model embeddings for structure generation. AI agents can execute ESMFold to rapidly predict structures for orphan proteins lacking homologs, generate structures for metagenomic sequences, batch-process thousands of proteins efficiently, access the ESM Metagenomic Atlas with 600M+ predicted structures, predict structures for designed or mutated sequences, and integrate with protein design pipelines requiring fast iteration.
+  > 基于语言模型的蛋白结构预测系统，训练于 2.5 亿+ 蛋白序列且无需 MSA，使预测速度比 AlphaFold 快约 60 倍且保持具有竞争力的准确度。使用 ESM-2 蛋白语言模型嵌入进行结构生成。AI 智能体可执行 ESMFold 快速预测缺乏同源的孤儿蛋白结构、生成宏基因组序列结构、高效批处理数千蛋白、访问含 6 亿+ 预测结构的 ESM Metagenomic Atlas、预测设计或突变序列结构，并与需要快速迭代的蛋白设计流程集成。
 
 - **[RoseTTAFold](https://github.com/RosettaCommons/RoseTTAFold)** `David Baker Lab`
 
-  > A three-track neural network for protein structure prediction combining 1D sequence, 2D distance maps, and 3D coordinate representations with attention mechanisms. Includes RoseTTAFold All-Atom for predicting structures with small molecules and modified residues. AI agents can invoke RoseTTAFold to predict protein structures with limited MSA depth, model protein-ligand complexes, predict structures with post-translational modifications, perform functional site prediction, integrate with Rosetta suite for structure refinement, and handle proteins with non-standard amino acids or cofactors.
+  > 结合 1D 序列、2D 距离图与 3D 坐标表示的三轨神经网络蛋白结构预测模型，采用注意力机制进行融合。包含 RoseTTAFold All-Atom，可预测包含小分子与修饰残基的结构。AI 智能体可调用 RoseTTAFold 在 MSA 深度有限时预测结构，建模蛋白-配体复合体，预测含翻译后修饰的结构，进行功能位点预测，与 Rosetta 套件集成进行结构精修，并处理含非标准氨基酸或辅因子的蛋白。
 
 - **[xTrimo](https://github.com/biomap-research/xTrimo)** `BioMap Research`
 
-  > A multimodal foundation model pre-trained on genomic sequences, RNA secondary structures, and functional annotations, supporting tasks including variant effect prediction, regulatory element identification, RNA structure prediction, and gene expression forecasting. Uses transformer architecture with 1B+ parameters. AI agents can invoke xTrimo to predict pathogenicity of genetic variants, identify regulatory elements in non-coding regions, forecast gene expression changes from sequence, predict RNA secondary structures, perform zero-shot transfer to new genomic tasks, and integrate sequence-based predictions with experimental data for variant prioritization.
+  > 预训练于基因组序列、RNA 二级结构与功能注释的多模态基础模型，支持变异效应预测、调控元件识别、RNA 结构预测与基因表达预测等任务。采用 10 亿+ 参数的 Transformer 架构。AI 智能体可调用 xTrimo 预测遗传变异的致病性，识别非编码区调控元件，从序列预测基因表达变化，预测 RNA 二级结构，对新基因组任务进行零样本迁移，并将序列预测与实验数据结合进行变异优先排序。
 
 - **[Nucleotide Transformer](https://github.com/instadeepai/nucleotide-transformer)** `InstaDeep`
 
-  > A collection of genomic language models pre-trained on 3,202 diverse genomes using self-supervised learning, providing embeddings for DNA sequences that capture evolutionary and functional constraints. Models range from 50M to 2.5B parameters with context lengths up to 1000bp. AI agents can use Nucleotide Transformer to generate contextualized sequence embeddings, predict regulatory elements and promoters, identify functional variants, perform few-shot learning on limited datasets, transfer knowledge across species, fine-tune for specific genomic prediction tasks, and extract features for downstream machine learning models.
+  > 由自监督学习在 3,202 个多样基因组上预训练的基因组语言模型集合，为 DNA 序列提供包含进化与功能约束的嵌入表示。模型规模从 50M 到 2.5B 参数，最长上下文可达 1000 bp。AI 智能体可使用 Nucleotide Transformer 生成上下文化序列嵌入，预测调控元件与启动子，识别功能性变异，在小样本数据上进行小样本学习，跨物种迁移知识，针对特定基因组预测任务微调，并为下游机器学习模型提取特征。
 
 - **[DNABERT](https://github.com/jerryji1993/DNABERT)** `Ji et al.`
 
-  > A BERT-based pre-trained model for DNA sequences using k-mer tokenization (k=3,4,5,6), capturing sequence patterns and motifs through bidirectional transformers. Pre-trained on human reference genome for genomic understanding tasks. AI agents can execute DNABERT to predict promoter regions and transcription factor binding sites, identify splice sites and polyadenylation signals, classify regulatory elements, perform motif discovery through attention visualization, fine-tune on specific genomic annotation tasks, and generate sequence representations for variant effect prediction.
+  > 基于 BERT 的 DNA 序列预训练模型，采用 k-mer 分词（k=3/4/5/6），通过双向 Transformer 捕捉序列模式与基序。预训练于人类参考基因组，用于基因组理解任务。AI 智能体可执行 DNABERT 预测启动子与转录因子结合位点，识别剪接位点与多腺苷酸化信号，分类调控元件，通过注意力可视化进行基序发现，对特定注释任务微调，并生成用于变异效应预测的序列表示。
 
 - **[Geneformer](https://huggingface.co/ctheodoris/Geneformer)** `Gladstone Institutes / Christina Theodoris`
 
-  > A transformer-based foundation model pre-trained on 30M single-cell transcriptomes from diverse tissues and cell types, learning context-specific gene network dynamics. Uses rank-based tokenization and attention mechanisms to capture gene-gene relationships. AI agents can invoke Geneformer to perform in silico perturbation predictions, identify disease-associated cell states, predict cell fate transitions, extract gene embeddings capturing functional relationships, perform few-shot cell type annotation, predict transcription factor targets, and model gene regulatory networks from expression data.
+  > 基于 Transformer 的基础模型，预训练于来自多组织与多细胞类型的 3000 万单细胞转录组，学习上下文特异的基因网络动态。采用基于排名的分词与注意力机制捕捉基因-基因关系。AI 智能体可调用 Geneformer 进行 in silico 扰动预测，识别疾病相关细胞状态，预测细胞命运转换，提取体现功能关系的基因嵌入，进行小样本细胞类型注释，预测转录因子靶点，并从表达数据构建基因调控网络。
 
 - **[scFoundation](https://github.com/biomap-research/scFoundation)** `BioMap Research`
 
-  > A foundation model for single-cell biology pre-trained on 50M+ cells across multiple species and tissues using masked cell modeling, providing universal cell representations for diverse downstream tasks including cell type annotation, drug response prediction, and perturbation modeling. AI agents can execute scFoundation to annotate cell types with zero-shot learning, predict cellular responses to genetic or chemical perturbations, generate cell embeddings for clustering and visualization, perform cross-species cell type mapping, identify disease-relevant cell states, and integrate multi-modal single-cell data.
+  > 预训练于多物种多组织 5000 万+ 细胞的单细胞生物学基础模型，采用 masked cell modeling，提供通用细胞表示，支持细胞类型注释、药物反应预测与扰动建模等多种下游任务。AI 智能体可执行 scFoundation 进行零样本细胞类型注释，预测遗传或化学扰动下的细胞反应，生成用于聚类与可视化的细胞嵌入，进行跨物种细胞类型映射，识别疾病相关细胞状态，并整合多模态单细胞数据。
 
 - **[UCE: Universal Cell Embeddings](https://github.com/snap-stanford/UCE)** `Stanford SNAP Lab`
 
-  > A foundational model providing universal representations for single cells by pre-training on 36M cells from human and mouse tissues, enabling robust cell type identification and biological discovery across datasets. Uses contrastive learning and masked cell prediction. AI agents can invoke UCE to generate high-quality cell embeddings for any scRNA-seq dataset, perform reference-free cell type annotation, identify novel cell states, integrate datasets across batches and technologies, predict cell-cell relationships, build cell atlases with consistent embeddings, and enable few-shot learning for rare cell types.
+  > 通过在人类与小鼠组织的 3600 万细胞上预训练，为单细胞提供通用表示的基础模型，可在不同数据集间实现稳健的细胞类型识别与生物学发现。采用对比学习与 masked cell prediction。AI 智能体可调用 UCE 生成高质量细胞嵌入，进行无参考细胞类型注释，识别新细胞状态，跨批次与技术整合数据集，预测细胞-细胞关系，构建具有一致嵌入的细胞图谱，并支持稀有细胞类型的小样本学习。
 
 - **[DiffDock](https://github.com/gcorso/DiffDock)** `Corso et al. / MIT`
 
-  > A diffusion-based model for molecular docking that predicts protein-ligand binding poses using geometric deep learning, achieving state-of-the-art accuracy while being 1000x faster than traditional docking methods. Generates multiple diverse binding poses with confidence estimates. AI agents can execute DiffDock to predict ligand binding poses for drug discovery, screen virtual compound libraries rapidly, generate diverse binding mode hypotheses, estimate binding confidence without computationally expensive scoring, integrate with molecular dynamics for pose refinement, and prioritize compounds for experimental validation.
+  > 基于扩散模型的分子对接方法，利用几何深度学习预测蛋白-配体结合构象，达到最先进精度同时比传统对接快约 1000 倍。可生成多样化结合构象并给出置信度估计。AI 智能体可执行 DiffDock 进行药物发现中的配体构象预测，快速筛选虚拟化合物库，生成多种结合模式假设，在无需昂贵打分的情况下估计结合置信度，与分子动力学结合进行构象精修，并为实验验证优先排序化合物。
 
 - **[EquiBind](https://github.com/HannesStark/EquiBind)** `Stärk et al. / MIT`
 
-  > A geometric deep learning framework for fast and accurate blind protein-ligand docking using equivariant graph neural networks, predicting binding poses directly without requiring pocket specification or docking scoring functions. Provides uncertainty quantification for predictions. AI agents can invoke EquiBind to perform rapid ligand docking without predefined binding sites, screen large compound libraries efficiently, predict binding poses for flexible ligands, generate initial poses for molecular dynamics simulations, integrate with downstream binding affinity prediction, and enable high-throughput virtual screening workflows.
+  > 基于几何深度学习的快速准确“盲对接”框架，使用等变图神经网络直接预测结合构象，无需事先指定口袋或对接打分函数，并提供预测不确定性量化。AI 智能体可调用 EquiBind 在无预定义结合位点的情况下进行快速配体对接，高效筛选大型化合物库，为柔性配体预测结合构象，生成分子动力学初始构象，与下游亲和力预测集成，并支持高通量虚拟筛选流程。
 
 - **[RFdiffusion](https://github.com/RosettaCommons/RFdiffusion)** `David Baker Lab`
 
-  > A diffusion-based generative model for de novo protein design that creates protein backbones with desired shapes, functions, or binding properties using denoising diffusion probabilistic models trained on protein structures. Enables design of binders, enzymes, and scaffolds. AI agents can execute RFdiffusion to design proteins with specified geometries, generate binders for target proteins, create enzyme scaffolds for desired active sites, design symmetric protein assemblies, produce motif-scaffolding proteins, inpaint protein regions while preserving function, and integrate with ProteinMPNN for sequence design to create novel functional proteins.
+  > 用于从头蛋白设计的扩散式生成模型，基于蛋白结构训练的去噪扩散概率模型生成具有指定形状、功能或结合性质的蛋白骨架，可用于设计结合蛋白、酶与支架。AI 智能体可执行 RFdiffusion 设计特定几何的蛋白，为目标蛋白生成结合体，构建期望活性位点的酶支架，设计对称蛋白装配体，生成基序支架蛋白，在保留功能的同时对蛋白区域进行修补（inpainting），并与 ProteinMPNN 集成进行序列设计以产生新功能蛋白。
 
 ### 可视化和探索
 
 - **[IGV: Integrative Genomics Viewer](https://igv.org/)** `Broad Institute`
 
-  > A high-performance genome browser for interactive visualization of diverse genomic data types including alignments (BAM/CRAM), variants (VCF), coverage tracks, gene annotations, and ChIP-seq peaks. Supports real-time navigation across reference genomes with synchronized multi-track views. AI agents can invoke IGV to visually inspect variant calls and alignment quality, validate structural variants and splice junctions, examine read depth and coverage patterns, visualize epigenetic modifications and regulatory elements, generate publication-ready screenshots of genomic regions, integrate multiple data tracks for comprehensive variant interpretation, and perform batch processing for automated snapshot generation.
+  > 高性能基因组浏览器，用于交互式可视化多种基因组数据类型，包括比对结果（BAM/CRAM）、变异（VCF）、覆盖度轨道、基因注释与 ChIP-seq 峰。支持跨参考基因组的实时导航与多轨同步视图。AI 智能体可调用 IGV 目视检查变异调用与比对质量，验证结构变异与剪接位点，查看读深与覆盖模式，可视化表观修饰与调控元件，生成发表级基因组区域截图，整合多轨数据进行全面变异解读，并进行批处理自动生成快照。
 
 - **[Loupe Browser](https://www.10xgenomics.com/support/software/loupe-browser)** `10X Genomics`
 
-  > An interactive desktop application for exploring single-cell and spatial transcriptomics data from 10X Genomics platforms, providing intuitive visualization of clusters, gene expression, and spatial tissue architecture. Includes tools for differential expression, pathway enrichment, and cell type annotation. AI agents can guide users to explore Cell Ranger outputs in Loupe, interactively define cell populations and subclusters, visualize gene expression overlays on tissue images for Visium data, perform on-the-fly differential expression analysis, annotate cell types with custom markers, export high-resolution images for publications, and compare expression patterns across spatial regions or experimental conditions.
+  > 用于探索 10X Genomics 平台单细胞与空间转录组数据的交互式桌面应用，提供对聚类、基因表达与组织空间结构的直观可视化。内置差异表达、通路富集与细胞类型注释工具。AI 智能体可引导用户在 Loupe 中探索 Cell Ranger 输出，交互式定义细胞群与子群，针对 Visium 数据在组织图像上叠加基因表达，实时进行差异表达分析，使用自定义标记注释细胞类型，导出出版级高清图像，并比较不同空间区域或实验条件下的表达模式。
 
 - **[cellxgene](https://cellxgene.cziscience.com/)** `Chan Zuckerberg Initiative`
 
-  > A web-based interactive explorer for single-cell transcriptomics data that enables dynamic visualization, gene expression queries, and cell subset selection through an intuitive interface. Serves as both a data portal (CZ CELLxGENE Discover with 50M+ cells) and local visualization tool. AI agents can deploy cellxgene to provide interactive data exploration for collaborators, visualize AnnData objects with UMAP/t-SNE projections, dynamically color cells by gene expression or metadata, select and export cell subsets for re-analysis, integrate with computational notebooks, host datasets for publication sharing, and enable researchers to explore single-cell atlases without programming expertise.
+  > 基于网页的单细胞转录组交互式浏览器，提供动态可视化、基因表达查询与细胞子集选择的直观界面。既是数据门户（CZ CELLxGENE Discover，50M+ 细胞），也是本地可视化工具。AI 智能体可部署 cellxgene 为协作者提供交互式数据探索，使用 UMAP/t-SNE 可视化 AnnData 对象，按基因表达或元数据动态着色，选择并导出细胞子集用于再分析，与计算笔记本集成，托管数据集用于发表共享，并让研究者无需编程即可探索单细胞图谱。
 
 - **[Napari](https://napari.org/)** `Napari Community`
 
-  > A fast, multi-dimensional image viewer for Python designed for visualizing and analyzing large biological imaging datasets including microscopy, spatial transcriptomics imaging, and volumetric data. Features GPU-accelerated rendering and extensible plugin architecture. AI agents can invoke Napari to visualize spatial transcriptomics H&E images alongside gene expression, display multi-channel fluorescence microscopy with custom colormaps, perform manual annotation and segmentation of cells/nuclei, integrate deep learning models for automated image analysis, create 3D visualizations of volumetric imaging data, prototype image processing workflows interactively, and develop custom plugins for specialized imaging tasks.
+  > Python 端快速的多维图像查看器，面向显微成像、空间转录组成像与体积数据等大型生物影像的可视化与分析。具备 GPU 加速渲染与可扩展插件架构。AI 智能体可调用 Napari 在基因表达旁可视化空间转录组 H&E 图像，用自定义色图展示多通道荧光显微图像，进行细胞/细胞核的手动标注与分割，集成深度学习模型进行自动图像分析，创建体积影像的 3D 可视化，交互式原型化图像处理流程，并开发面向特定成像任务的自定义插件。
 
 ### 工具总结表
 
@@ -1413,83 +1413,83 @@ This section curates benchmarks for evaluating AI systems in biomedical domains,
 | **Trimmomatic**            | 灵活的 Illumina NGS 数据读取修剪工具            | Usadel Lab                           | 核心 NGS 管道                     | http://www.usadellab.org/cms/?page=trimmomatic               |
 | **BWA**                    | Burrows-Wheeler 比对器                                      | Heng Li Lab                          | 核心 NGS 管道                     | http://bio-bwa.sourceforge.net/                              |
 | **STAR**                   | 拼接转录本到参考基因组的比对                 | Alexander Dobin                      | 核心 NGS 管道                     | https://github.com/alexdobin/STAR                            |
-| **Minimap2**               | Versatile alignment tool for long-read sequencing            | Heng Li                              | 核心 NGS 管道                     | https://github.com/lh3/minimap2                              |
-| **Samtools**               | Suite of utilities for manipulating SAM/BAM/CRAM alignments  | Genome Research Ltd                  | 核心 NGS 管道                     | http://www.htslib.org/                                       |
-| **BEDTools**               | 工具set for genome arithmetic operations                     | Quinlan Lab                          | 核心 NGS 管道                     | https://bedtools.readthedocs.io/                             |
-| **Picard**                 | 工具s for manipulating high-throughput sequencing data       | Broad Institute                      | 核心 NGS 管道                     | https://broadinstitute.github.io/picard/                     |
-| **SPAdes**                 | St. Petersburg genome Assembler                              | Center for Algorithmic Biotechnology | 基因组组装和变异分析    | https://github.com/ablab/spades                              |
-| **Flye**                   | Long-read de novo assembler                                  | Kolmogorov Lab                       | 基因组组装和变异分析    | https://github.com/fenderglass/Flye                          |
-| **Canu**                   | Long-read assembly toolkit                                   | Koren & Walenz Labs                  | 基因组组装和变异分析    | https://github.com/marbl/canu                                |
-| **QUAST**                  | QUality ASsessment Tool for genome assemblies                | Center for Algorithmic Biotechnology | 基因组组装和变异分析    | https://github.com/ablab/quast                               |
-| **Bandage**                | Bioinformatics Application for Navigating De novo Assembly Graphs Easily | Ryan Wick                            | 基因组组装和变异分析    | https://github.com/rrwick/Bandage                            |
-| **GATK**                   | Genome Analysis Toolkit                                      | Broad Institute                      | 基因组组装和变异分析    | https://gatk.broadinstitute.org/                             |
-| **bcftools**               | 工具kit for VCF/BCF file manipulation and variant calling    | Genome Research Ltd                  | 基因组组装和变异分析    | http://samtools.github.io/bcftools/                          |
-| **Manta**                  | Structural variant caller                                    | Illumina                             | 基因组组装和变异分析    | https://github.com/Illumina/manta                            |
-| **FreeBayes**              | Bayesian genetic variant detector                            | Erik Garrison                        | 基因组组装和变异分析    | https://github.com/freebayes/freebayes                       |
-| **Pindel**                 | Pattern-growth approach to detect breakpoints                | Wellcome Trust Sanger Institute      | 基因组组装和变异分析    | https://github.com/genome/pindel                             |
-| **VEP**                    | Variant Effect Predictor                                     | EMBL-EBI / Ensembl                   | 基因组组装和变异分析    | https://www.ensembl.org/vep                                  |
-| **SnpEff**                 | Variant annotation and functional effect prediction          | Pablo Cingolani                      | 基因组组装和变异分析    | https://pcingola.github.io/SnpEff/                           |
-| **ANNOVAR**                | Versatile variant annotation tool                            | Kai Wang Lab                         | 基因组组装和变异分析    | https://annovar.openbioinformatics.org/                      |
-| **DESeq2**                 | Differential gene expression analysis from count data        | Love, Anders, Huber                  | 转录组学和表达分析 | https://bioconductor.org/packages/DESeq2/                    |
-| **edgeR**                  | Differential expression analysis using empirical Bayes       | Gordon Smyth Lab                     | 转录组学和表达分析 | https://bioconductor.org/packages/edgeR/                     |
-| **StringTie**              | Transcript assembler and quantifier                          | Johns Hopkins University CCB         | 转录组学和表达分析 | https://ccb.jhu.edu/software/stringtie/                      |
-| **Salmon**                 | Ultra-fast transcript quantification                         | Rob Patro Lab                        | 转录组学和表达分析 | https://combine-lab.github.io/salmon/                        |
-| **HTSeq**                  | 框架 for processing high-throughput sequencing data     | Simon Anders Lab                     | 转录组学和表达分析 | https://htseq.readthedocs.io/                                |
-| **Scanpy**                 | 工具kit for analyzing single-cell RNA-seq data               | Theis Lab                            | 转录组学和表达分析 | https://scanpy.readthedocs.io/                               |
-| **Seurat**                 | 工具kit for single-cell RNA-seq analysis                     | Satija Lab                           | 转录组学和表达分析 | https://satijalab.org/seurat/                                |
-| **Cell Ranger**            | Analysis pipeline for 10X Genomics data                      | 10X Genomics                         | 转录组学和表达分析 | https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger |
-| **scVI**                   | Single-cell Variational Inference                            | Yosef Lab                            | 转录组学和表达分析 | https://scvi-tools.org/                                      |
-| **scGPT**                  | Foundation model for single-cell biology                     | Cui Lab                              | 转录组学和表达分析 | https://scgpt.readthedocs.io/                                |
-| **Squidpy**                | 工具kit for spatial molecular data analysis                  | Theis Lab                            | 转录组学和表达分析 | https://squidpy.readthedocs.io/                              |
-| **Tangram**                | Deep learning for mapping single-cell to spatial             | Regev Lab                            | 转录组学和表达分析 | https://tangram-sc.readthedocs.io/                           |
-| **STUtility**              | Analyzing and visualizing spatially resolved transcriptomics | Lundeberg Lab                        | 转录组学和表达分析 | https://ludvigla.github.io/STUtility_web_site/               |
-| **SPATA2**                 | 框架 for spatial transcriptomics analysis               | Kuppe Lab                            | 转录组学和表达分析 | https://themilolab.github.io/SPATA2/                         |
-| **Giotto**                 | 工具box for spatial and multiplexed imaging data             | Yuan Lab                             | 转录组学和表达分析 | https://giottosuite.readthedocs.io/                          |
-| **MACS2**                  | 模型-based Analysis of ChIP-Seq                             | Tao Liu Lab                          | 表观基因组学和调控分析     | https://github.com/macs3-project/MACS                        |
-| **HOMER**                  | Hypergeometric Optimization of Motif EnRichment              | Christopher Benner                   | 表观基因组学和调控分析     | http://homer.ucsd.edu/homer/                                 |
-| **MEME Suite**             | 工具s for motif discovery and analysis                       | Timothy Bailey Lab                   | 表观基因组学和调控分析     | https://meme-suite.org/                                      |
-| **Bismark**                | Aligner for bisulfite-treated sequencing data                | Babraham Bioinformatics              | 表观基因组学和调控分析     | https://www.bioinformatics.babraham.ac.uk/projects/bismark/  |
-| **deepTools**              | 工具kit for exploring deep-sequencing data                   | Ramírez Lab                          | 表观基因组学和调控分析     | https://deeptools.readthedocs.io/                            |
-| **ATACseqQC**              | Quality control and analysis for ATAC-seq                    | Jianhong Ou, Julie Zhu               | 表观基因组学和调控分析     | https://bioconductor.org/packages/ATACseqQC/                 |
-| **ChromHMM**               | Chromatin state discovery from histone modifications         | Ernst & Kellis Lab                   | 表观基因组学和调控分析     | http://compbio.mit.edu/ChromHMM/                             |
-| **MOFA+**                  | Multi-Omics Factor Analysis                                  | Ricard Argelaguet, Britta Velten     | 多组学整合               | https://biofam.github.io/MOFA2/                              |
-| **Seurat V5**              | Latest Seurat with multi-modal integration                   | Satija Lab                           | 多组学整合               | https://satijalab.org/seurat/                                |
-| **MultiVI**                | Deep model for joint RNA-seq and ATAC-seq                    | Gayoso, Steier et al.                | 多组学整合               | https://docs.scvi-tools.org/en/stable/user_guide/models/multivi.html |
-| **totalVI**                | Probabilistic model for CITE-seq data                        | Gayoso, Steier et al.                | 多组学整合               | https://docs.scvi-tools.org/en/stable/user_guide/models/totalvi.html |
-| **LIGER**                  | 链接ed Inference of Genomic Experimental Relationships       | Joshua Welch Lab                     | 多组学整合               | https://github.com/welch-lab/liger                           |
-| **Scissor**                | Phenotype-associated single-cell subpopulation identification | Duan Chen Sun                        | 多组学整合               | https://github.com/sunduanchen/Scissor                       |
-| **OpenMS**                 | 框架 for mass spectrometry data analysis                | OpenMS Team                          | 特定技术工具             | https://www.openms.de/                                       |
-| **MaxQuant**               | Quantitative proteomics software platform                    | Jürgen Cox, Max Planck Institute     | 特定技术工具             | https://www.maxquant.org/                                    |
-| **ProteoWizard**           | 工具s for mass spectrometry data conversion                  | Spielberg Family Center              | 特定技术工具             | http://proteowizard.sourceforge.net/                         |
-| **QIIME2**                 | Quantitative Insights Into Microbial Ecology                 | Caporaso Lab                         | 特定技术工具             | https://qiime2.org/                                          |
-| **MetaPhlAn**              | Metagenomic Phylogenetic Analysis                            | Huttenhower Lab                      | 特定技术工具             | https://github.com/biobakery/MetaPhlAn                       |
-| **Kraken2**                | Ultrafast taxonomic classifier for metagenomics              | Derrick Wood & Steven Salzberg       | 特定技术工具             | https://github.com/DerrickWood/kraken2                       |
-| **HUMAnN**                 | HMP Unified Metabolic Analysis Network                       | Huttenhower Lab                      | 特定技术工具             | https://huttenhower.sph.harvard.edu/humann/                  |
-| **NanoPlot**               | Visualization tool for long-read sequencing QC               | Wouter De Coster                     | 特定技术工具             | https://github.com/wdecoster/NanoPlot                        |
-| **Medaka**                 | Neural network-based consensus tool for Nanopore             | Oxford Nanopore Technologies         | 特定技术工具             | https://github.com/nanoporetech/medaka                       |
-| **Racon**                  | Rapid consensus module for polishing assemblies              | Vaser et al.                         | 特定技术工具             | https://github.com/lbcb-sci/racon                            |
-| **Clair3**                 | Deep learning-based variant caller for long reads            | Luo et al.                           | 特定技术工具             | https://github.com/HKU-BAL/Clair3                            |
-| **miRDeep2**               | Probabilistic algorithm for discovering microRNAs            | Friedländer Lab                      | 特定技术工具             | https://github.com/rajewsky-lab/mirdeep2                     |
-| **sRNAbench**              | Comprehensive tool for small RNA-seq analysis                | University of Granada                | 特定技术工具             | https://bioinfo2.ugr.es/srnatoolbox/srnabench/               |
-| **rMATS**                  | replicate Multivariate Analysis of Transcript Splicing       | Manabu Shen Lab                      | 特定技术工具             | http://rnaseq-mats.sourceforge.net/                          |
-| **SUPPA**                  | Super-fast Pipeline for Alternative Splicing                 | Eduardo Eyras Lab                    | 特定技术工具             | https://github.com/comprna/SUPPA                             |
-| **LeafCutter**             | Annotation-free method for detecting intron excision         | David Knowles & Jonathan Pritchard   | 特定技术工具             | https://davidaknowles.github.io/leafcutter/                  |
-| **AlphaFold**              | Deep learning system for protein structure prediction        | DeepMind / Google                    | AI/ML 基础模型               | https://alphafold.ebi.ac.uk/                                 |
-| **ESMFold**                | Language model-based protein structure prediction            | Meta AI                              | AI/ML 基础模型               | https://esmatlas.com/                                        |
-| **RoseTTAFold**            | Three-track neural network for structure prediction          | David Baker Lab                      | AI/ML 基础模型               | https://github.com/RosettaCommons/RoseTTAFold                |
-| **xTrimo**                 | Multimodal foundation model for genomics                     | BioMap Research                      | AI/ML 基础模型               | https://github.com/biomap-research/xTrimo                    |
-| **Nucleotide Transformer** | Genomic language models pre-trained on diverse genomes       | InstaDeep                            | AI/ML 基础模型               | https://github.com/instadeepai/nucleotide-transformer        |
-| **DNABERT**                | BERT-based pre-trained model for DNA sequences               | Ji et al.                            | AI/ML 基础模型               | https://github.com/jerryji1993/DNABERT                       |
-| **Geneformer**             | Transformer-based foundation model for single-cell           | Gladstone Institutes                 | AI/ML 基础模型               | https://huggingface.co/ctheodoris/Geneformer                 |
-| **scFoundation**           | Foundation model for single-cell biology                     | BioMap Research                      | AI/ML 基础模型               | https://github.com/biomap-research/scFoundation              |
-| **UCE**                    | Universal Cell Embeddings                                    | Stanford SNAP Lab                    | AI/ML 基础模型               | https://github.com/snap-stanford/UCE                         |
-| **DiffDock**               | Diffusion-based model for molecular docking                  | Corso et al. / MIT                   | AI/ML 基础模型               | https://github.com/gcorso/DiffDock                           |
-| **EquiBind**               | Geometric deep learning for protein-ligand docking           | Stärk et al. / MIT                   | AI/ML 基础模型               | https://github.com/HannesStark/EquiBind                      |
-| **RFdiffusion**            | Diffusion-based generative model for protein design          | David Baker Lab                      | AI/ML 基础模型               | https://github.com/RosettaCommons/RFdiffusion                |
-| **IGV**                    | Integrative Genomics Viewer                                  | Broad Institute                      | 可视化和探索           | https://igv.org/                                             |
-| **Loupe Browser**          | Interactive explorer for 10X Genomics data                   | 10X Genomics                         | 可视化和探索           | https://www.10xgenomics.com/support/software/loupe-browser   |
-| **cellxgene**              | Web-based interactive explorer for single-cell data          | Chan Zuckerberg Initiative           | 可视化和探索           | https://cellxgene.cziscience.com/                            |
-| **Napari**                 | Multi-dimensional image viewer for biological imaging        | Napari Community                     | 可视化和探索           | https://napari.org/                                          |
+| **Minimap2**               | 长读长测序通用比对工具                                   | Heng Li                              | 核心 NGS 管道                     | https://github.com/lh3/minimap2                              |
+| **Samtools**               | SAM/BAM/CRAM 操作工具套件                               | Genome Research Ltd                  | 核心 NGS 管道                     | http://www.htslib.org/                                       |
+| **BEDTools**               | 基因组区间算术工具集                                  | Quinlan Lab                          | 核心 NGS 管道                     | https://bedtools.readthedocs.io/                             |
+| **Picard**                 | 高通量测序数据处理工具集                              | Broad Institute                      | 核心 NGS 管道                     | https://broadinstitute.github.io/picard/                     |
+| **SPAdes**                 | 圣彼得堡基因组组装器                                  | Center for Algorithmic Biotechnology | 基因组组装和变异分析    | https://github.com/ablab/spades                              |
+| **Flye**                   | 长读长 de novo 组装器                                | Kolmogorov Lab                       | 基因组组装和变异分析    | https://github.com/fenderglass/Flye                          |
+| **Canu**                   | 长读长组装工具包                                     | Koren & Walenz Labs                  | 基因组组装和变异分析    | https://github.com/marbl/canu                                |
+| **QUAST**                  | 基因组组装质量评估工具                               | Center for Algorithmic Biotechnology | 基因组组装和变异分析    | https://github.com/ablab/quast                               |
+| **Bandage**                | 组装图导航可视化工具                                | Ryan Wick                            | 基因组组装和变异分析    | https://github.com/rrwick/Bandage                            |
+| **GATK**                   | 基因组分析工具包                                     | Broad Institute                      | 基因组组装和变异分析    | https://gatk.broadinstitute.org/                             |
+| **bcftools**               | VCF/BCF 操作与变异调用工具集                         | Genome Research Ltd                  | 基因组组装和变异分析    | http://samtools.github.io/bcftools/                          |
+| **Manta**                  | 结构变异检测器                                       | Illumina                             | 基因组组装和变异分析    | https://github.com/Illumina/manta                            |
+| **FreeBayes**              | 贝叶斯遗传变异检测器                                 | Erik Garrison                        | 基因组组装和变异分析    | https://github.com/freebayes/freebayes                       |
+| **Pindel**                 | 断点检测的模式生长方法                               | Wellcome Trust Sanger Institute      | 基因组组装和变异分析    | https://github.com/genome/pindel                             |
+| **VEP**                    | 变异效应预测器                                       | EMBL-EBI / Ensembl                   | 基因组组装和变异分析    | https://www.ensembl.org/vep                                  |
+| **SnpEff**                 | 变异注释与功能效应预测                               | Pablo Cingolani                      | 基因组组装和变异分析    | https://pcingola.github.io/SnpEff/                           |
+| **ANNOVAR**                | 通用变异注释工具                                     | Kai Wang Lab                         | 基因组组装和变异分析    | https://annovar.openbioinformatics.org/                      |
+| **DESeq2**                 | 基于计数数据的差异表达分析                           | Love, Anders, Huber                  | 转录组学和表达分析 | https://bioconductor.org/packages/DESeq2/                    |
+| **edgeR**                  | 基于经验贝叶斯的差异表达分析                         | Gordon Smyth Lab                     | 转录组学和表达分析 | https://bioconductor.org/packages/edgeR/                     |
+| **StringTie**              | 转录本组装与定量                                     | Johns Hopkins University CCB         | 转录组学和表达分析 | https://ccb.jhu.edu/software/stringtie/                      |
+| **Salmon**                 | 超快速转录本定量                                     | Rob Patro Lab                        | 转录组学和表达分析 | https://combine-lab.github.io/salmon/                        |
+| **HTSeq**                  | 高通量测序数据处理框架                               | Simon Anders Lab                     | 转录组学和表达分析 | https://htseq.readthedocs.io/                                |
+| **Scanpy**                 | 单细胞 RNA-seq 分析工具包                           | Theis Lab                            | 转录组学和表达分析 | https://scanpy.readthedocs.io/                               |
+| **Seurat**                 | 单细胞 RNA-seq 分析工具包                           | Satija Lab                           | 转录组学和表达分析 | https://satijalab.org/seurat/                                |
+| **Cell Ranger**            | 10X Genomics 数据分析流水线                          | 10X Genomics                         | 转录组学和表达分析 | https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger |
+| **scVI**                   | 单细胞变分推断                                       | Yosef Lab                            | 转录组学和表达分析 | https://scvi-tools.org/                                      |
+| **scGPT**                  | 单细胞生物学基础模型                                 | Cui Lab                              | 转录组学和表达分析 | https://scgpt.readthedocs.io/                                |
+| **Squidpy**                | 空间分子数据分析工具包                               | Theis Lab                            | 转录组学和表达分析 | https://squidpy.readthedocs.io/                              |
+| **Tangram**                | 单细胞到空间映射的深度学习                           | Regev Lab                            | 转录组学和表达分析 | https://tangram-sc.readthedocs.io/                           |
+| **STUtility**              | 空间转录组分析与可视化                               | Lundeberg Lab                        | 转录组学和表达分析 | https://ludvigla.github.io/STUtility_web_site/               |
+| **SPATA2**                 | 空间转录组分析框架                                   | Kuppe Lab                            | 转录组学和表达分析 | https://themilolab.github.io/SPATA2/                         |
+| **Giotto**                 | 空间与多重成像数据分析工具箱                         | Yuan Lab                             | 转录组学和表达分析 | https://giottosuite.readthedocs.io/                          |
+| **MACS2**                  | ChIP-seq 的模型化峰调用                             | Tao Liu Lab                          | 表观基因组学和调控分析     | https://github.com/macs3-project/MACS                        |
+| **HOMER**                  | 基序富集的超几何优化                                | Christopher Benner                   | 表观基因组学和调控分析     | http://homer.ucsd.edu/homer/                                 |
+| **MEME Suite**             | 基序发现与分析工具集                                 | Timothy Bailey Lab                   | 表观基因组学和调控分析     | https://meme-suite.org/                                      |
+| **Bismark**                | 亚硫酸氢盐测序比对器                                | Babraham Bioinformatics              | 表观基因组学和调控分析     | https://www.bioinformatics.babraham.ac.uk/projects/bismark/  |
+| **deepTools**              | 深度测序数据分析工具集                               | Ramírez Lab                          | 表观基因组学和调控分析     | https://deeptools.readthedocs.io/                            |
+| **ATACseqQC**              | ATAC-seq 质控与分析                                  | Jianhong Ou, Julie Zhu               | 表观基因组学和调控分析     | https://bioconductor.org/packages/ATACseqQC/                 |
+| **ChromHMM**               | 基于组蛋白修饰的染色质状态发现                       | Ernst & Kellis Lab                   | 表观基因组学和调控分析     | http://compbio.mit.edu/ChromHMM/                             |
+| **MOFA+**                  | 多组学因子分析                                       | Ricard Argelaguet, Britta Velten     | 多组学整合               | https://biofam.github.io/MOFA2/                              |
+| **Seurat V5**              | 支持多模态整合的最新 Seurat                          | Satija Lab                           | 多组学整合               | https://satijalab.org/seurat/                                |
+| **MultiVI**                | 联合 RNA-seq 与 ATAC-seq 的深度模型                  | Gayoso, Steier et al.                | 多组学整合               | https://docs.scvi-tools.org/en/stable/user_guide/models/multivi.html |
+| **totalVI**                | CITE-seq 概率模型                                    | Gayoso, Steier et al.                | 多组学整合               | https://docs.scvi-tools.org/en/stable/user_guide/models/totalvi.html |
+| **LIGER**                  | 基因组实验关系的联结推断                             | Joshua Welch Lab                     | 多组学整合               | https://github.com/welch-lab/liger                           |
+| **Scissor**                | 表型相关单细胞亚群识别                               | Duan Chen Sun                        | 多组学整合               | https://github.com/sunduanchen/Scissor                       |
+| **OpenMS**                 | 质谱数据分析框架                                     | OpenMS Team                          | 特定技术工具             | https://www.openms.de/                                       |
+| **MaxQuant**               | 定量蛋白组学软件平台                                 | Jürgen Cox, Max Planck Institute     | 特定技术工具             | https://www.maxquant.org/                                    |
+| **ProteoWizard**           | 质谱数据转换工具集                                   | Spielberg Family Center              | 特定技术工具             | http://proteowizard.sourceforge.net/                         |
+| **QIIME2**                 | 微生物生态定量分析                                   | Caporaso Lab                         | 特定技术工具             | https://qiime2.org/                                          |
+| **MetaPhlAn**              | 宏基因组系统发育分析                                 | Huttenhower Lab                      | 特定技术工具             | https://github.com/biobakery/MetaPhlAn                       |
+| **Kraken2**                | 宏基因组超高速分类器                                 | Derrick Wood & Steven Salzberg       | 特定技术工具             | https://github.com/DerrickWood/kraken2                       |
+| **HUMAnN**                 | HMP 统一代谢分析流程                                 | Huttenhower Lab                      | 特定技术工具             | https://huttenhower.sph.harvard.edu/humann/                  |
+| **NanoPlot**               | 长读长测序 QC 可视化工具                              | Wouter De Coster                     | 特定技术工具             | https://github.com/wdecoster/NanoPlot                        |
+| **Medaka**                 | 基于神经网络的 Nanopore 共识修正                      | Oxford Nanopore Technologies         | 特定技术工具             | https://github.com/nanoporetech/medaka                       |
+| **Racon**                  | 组装抛光的快速共识模块                               | Vaser et al.                         | 特定技术工具             | https://github.com/lbcb-sci/racon                            |
+| **Clair3**                 | 长读段小变异检测深度学习模型                         | Luo et al.                           | 特定技术工具             | https://github.com/HKU-BAL/Clair3                            |
+| **miRDeep2**               | microRNA 发现概率算法                                 | Friedländer Lab                      | 特定技术工具             | https://github.com/rajewsky-lab/mirdeep2                     |
+| **sRNAbench**              | 小 RNA-seq 综合分析工具                               | University of Granada                | 特定技术工具             | https://bioinfo2.ugr.es/srnatoolbox/srnabench/               |
+| **rMATS**                  | 转录本剪接的复合统计分析                              | Manabu Shen Lab                      | 特定技术工具             | http://rnaseq-mats.sourceforge.net/                          |
+| **SUPPA**                  | 超快速可变剪接流程                                   | Eduardo Eyras Lab                    | 特定技术工具             | https://github.com/comprna/SUPPA                             |
+| **LeafCutter**             | 无注释内含子切除检测方法                             | David Knowles & Jonathan Pritchard   | 特定技术工具             | https://davidaknowles.github.io/leafcutter/                  |
+| **AlphaFold**              | 蛋白结构预测深度学习系统                             | DeepMind / Google                    | AI/ML 基础模型               | https://alphafold.ebi.ac.uk/                                 |
+| **ESMFold**                | 基于语言模型的蛋白结构预测                           | Meta AI                              | AI/ML 基础模型               | https://esmatlas.com/                                        |
+| **RoseTTAFold**            | 三轨结构预测网络                                     | David Baker Lab                      | AI/ML 基础模型               | https://github.com/RosettaCommons/RoseTTAFold                |
+| **xTrimo**                 | 基因组多模态基础模型                                 | BioMap Research                      | AI/ML 基础模型               | https://github.com/biomap-research/xTrimo                    |
+| **Nucleotide Transformer** | 多基因组预训练语言模型                               | InstaDeep                            | AI/ML 基础模型               | https://github.com/instadeepai/nucleotide-transformer        |
+| **DNABERT**                | DNA 序列 BERT 预训练模型                              | Ji et al.                            | AI/ML 基础模型               | https://github.com/jerryji1993/DNABERT                       |
+| **Geneformer**             | 单细胞 Transformer 基础模型                           | Gladstone Institutes                 | AI/ML 基础模型               | https://huggingface.co/ctheodoris/Geneformer                 |
+| **scFoundation**           | 单细胞生物学基础模型                                 | BioMap Research                      | AI/ML 基础模型               | https://github.com/biomap-research/scFoundation              |
+| **UCE**                    | 通用细胞嵌入                                          | Stanford SNAP Lab                    | AI/ML 基础模型               | https://github.com/snap-stanford/UCE                         |
+| **DiffDock**               | 扩散式分子对接模型                                   | Corso et al. / MIT                   | AI/ML 基础模型               | https://github.com/gcorso/DiffDock                           |
+| **EquiBind**               | 蛋白-配体对接的几何深度学习                           | Stärk et al. / MIT                   | AI/ML 基础模型               | https://github.com/HannesStark/EquiBind                      |
+| **RFdiffusion**            | 蛋白设计的扩散式生成模型                             | David Baker Lab                      | AI/ML 基础模型               | https://github.com/RosettaCommons/RFdiffusion                |
+| **IGV**                    | 整合基因组浏览器                                     | Broad Institute                      | 可视化和探索           | https://igv.org/                                             |
+| **Loupe Browser**          | 10X Genomics 交互式浏览器                             | 10X Genomics                         | 可视化和探索           | https://www.10xgenomics.com/support/software/loupe-browser   |
+| **cellxgene**              | 单细胞数据 Web 交互浏览器                              | Chan Zuckerberg Initiative           | 可视化和探索           | https://cellxgene.cziscience.com/                            |
+| **Napari**                 | 生物影像多维查看器                                   | Napari Community                     | 可视化和探索           | https://napari.org/                                          |
 
 
 
